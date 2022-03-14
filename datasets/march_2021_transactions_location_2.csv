@@ -1,0 +1,3117 @@
+,timestamp,item,quantity,Category
+0,3/1/2021 7:00,loaves,10,bakery
+1,3/1/2021 8:00,hand soap,25,personal care
+2,3/1/2021 8:00,oranges,28,fruits
+3,3/1/2021 8:00,hand soap,16,personal care
+4,3/1/2021 8:00,toilet paper,17,toileteries
+5,3/1/2021 10:00,chicken,15,meat
+6,3/1/2021 10:00,coffee,21,beverages
+7,3/1/2021 10:00,beans,1,canned food
+8,3/1/2021 10:00,hand soap,21,personal care
+9,3/1/2021 10:00,oranges,25,fruits
+10,3/1/2021 10:00,cookies,4,bakery
+11,3/1/2021 10:00,loaves,5,bakery
+12,3/1/2021 11:00,coffee,5,beverages
+13,3/1/2021 11:00,beans,14,canned food
+14,3/1/2021 11:00,buns,26,bakery
+15,3/1/2021 11:00,paper towels,16,toileteries
+16,3/1/2021 11:00,beans,4,canned food
+17,3/1/2021 12:00,cookies,4,bakery
+18,3/1/2021 12:00,shaving cream,7,personal care
+19,3/1/2021 12:00,oranges,16,fruits
+20,3/1/2021 12:00,chicken,8,meat
+21,3/1/2021 12:00,bananas,11,fruits
+22,3/1/2021 12:00,shaving cream,30,personal care
+23,3/1/2021 12:00,pork,15,meat
+24,3/1/2021 12:00,tilapia,13,meat
+25,3/1/2021 12:00,ketchup,26,canned food
+26,3/1/2021 12:00,shaving cream,1,personal care
+27,3/1/2021 13:00,chicken,19,meat
+28,3/1/2021 13:00,loaves,9,bakery
+29,3/1/2021 13:00,beans,5,canned food
+30,3/1/2021 13:00,cupcakes,7,bakery
+31,3/1/2021 13:00,all purpose,22,detergents
+32,3/1/2021 13:00,loaves,10,bakery
+33,3/1/2021 13:00,dish soap,11,detergents
+34,3/1/2021 14:00,toilet paper,14,toileteries
+35,3/1/2021 14:00,beef,3,meat
+36,3/1/2021 14:00,shampoo,6,personal care
+37,3/1/2021 14:00,pork,25,meat
+38,3/1/2021 14:00,toilet paper,9,toileteries
+39,3/1/2021 15:00,dish soap,29,detergents
+40,3/1/2021 15:00,cookies,3,bakery
+41,3/1/2021 15:00,cupcakes,3,bakery
+42,3/1/2021 15:00,tea,2,beverages
+43,3/1/2021 15:00,shaving cream,28,personal care
+44,3/1/2021 15:00,chicken,23,meat
+45,3/1/2021 16:00,pork,4,meat
+46,3/1/2021 16:00,tea,6,beverages
+47,3/1/2021 16:00,toilet paper,25,toileteries
+48,3/1/2021 16:00,dish soap,29,detergents
+49,3/1/2021 16:00,pork,30,meat
+50,3/1/2021 16:00,tea,4,beverages
+51,3/1/2021 16:00,bananas,2,fruits
+52,3/1/2021 17:00,chicken,9,meat
+53,3/1/2021 17:00,pork,27,meat
+54,3/1/2021 17:00,ketchup,23,canned food
+55,3/1/2021 17:00,soda,3,beverages
+56,3/1/2021 17:00,chicken,28,meat
+57,3/1/2021 17:00,hand soap,14,personal care
+58,3/1/2021 17:00,hand soap,22,personal care
+59,3/1/2021 17:00,loaves,2,bakery
+60,3/1/2021 17:00,dish soap,27,detergents
+61,3/1/2021 17:00,beef,24,meat
+62,3/1/2021 17:00,buns,18,bakery
+63,3/1/2021 17:00,tea,3,beverages
+64,3/1/2021 17:00,cookies,1,bakery
+65,3/1/2021 17:00,chicken,1,meat
+66,3/1/2021 17:00,shaving cream,16,personal care
+67,3/1/2021 17:00,oranges,19,fruits
+68,3/1/2021 17:00,shampoo,4,personal care
+69,3/1/2021 17:00,dish soap,4,detergents
+70,3/1/2021 17:00,beef,26,meat
+71,3/1/2021 17:00,buns,30,bakery
+72,3/1/2021 18:00,chicken,24,meat
+73,3/1/2021 18:00,dish soap,30,detergents
+74,3/1/2021 18:00,tilapia,9,meat
+75,3/1/2021 18:00,tea,3,beverages
+76,3/1/2021 18:00,beef,23,meat
+77,3/1/2021 18:00,tea,6,beverages
+78,3/1/2021 18:00,toilet paper,1,toileteries
+79,3/1/2021 18:00,cupcakes,6,bakery
+80,3/1/2021 18:00,loaves,10,bakery
+81,3/1/2021 18:00,laundry detergent,13,detergents
+82,3/1/2021 18:00,beans,4,canned food
+83,3/1/2021 18:00,shampoo,20,personal care
+84,3/1/2021 18:00,tilapia,3,meat
+85,3/1/2021 18:00,bananas,17,fruits
+86,3/1/2021 18:00,chicken,5,meat
+87,3/1/2021 19:00,cupcakes,10,bakery
+88,3/1/2021 19:00,dish soap,21,detergents
+89,3/1/2021 19:00,chicken,1,meat
+90,3/1/2021 19:00,ketchup,12,canned food
+91,3/1/2021 19:00,beans,8,canned food
+92,3/1/2021 19:00,paper towels,8,toileteries
+93,3/1/2021 20:00,soda,11,beverages
+94,3/1/2021 20:00,bananas,4,fruits
+95,3/1/2021 20:00,loaves,8,bakery
+96,3/1/2021 20:00,ketchup,29,canned food
+97,3/1/2021 21:00,chicken,24,meat
+98,3/1/2021 21:00,laundry detergent,5,detergents
+99,3/1/2021 21:00,ketchup,11,canned food
+100,3/1/2021 21:00,apples,20,fruits
+101,3/1/2021 22:00,all purpose,5,detergents
+102,3/1/2021 22:00,hand soap,9,personal care
+103,3/1/2021 23:00,tea,2,beverages
+104,3/1/2021 23:00,shampoo,16,personal care
+105,3/2/2021 7:00,beef,21,meat
+106,3/2/2021 8:00,cupcakes,7,bakery
+107,3/2/2021 9:00,dish soap,30,detergents
+108,3/2/2021 9:00,laundry detergent,14,detergents
+109,3/2/2021 9:00,hand soap,25,personal care
+110,3/2/2021 9:00,tea,5,beverages
+111,3/2/2021 10:00,tilapia,3,meat
+112,3/2/2021 10:00,tea,4,beverages
+113,3/2/2021 10:00,pork,7,meat
+114,3/2/2021 10:00,beans,1,canned food
+115,3/2/2021 10:00,beans,11,canned food
+116,3/2/2021 10:00,hand soap,22,personal care
+117,3/2/2021 10:00,cookies,3,bakery
+118,3/2/2021 10:00,paper towels,12,toileteries
+119,3/2/2021 11:00,tilapia,10,meat
+120,3/2/2021 11:00,loaves,3,bakery
+121,3/2/2021 11:00,shampoo,14,personal care
+122,3/2/2021 11:00,cookies,2,bakery
+123,3/2/2021 11:00,apples,25,fruits
+124,3/2/2021 11:00,chicken,28,meat
+125,3/2/2021 11:00,apples,17,fruits
+126,3/2/2021 12:00,ketchup,9,canned food
+127,3/2/2021 12:00,pork,27,meat
+128,3/2/2021 12:00,shaving cream,12,personal care
+129,3/2/2021 12:00,chicken,8,meat
+130,3/2/2021 12:00,beef,28,meat
+131,3/2/2021 12:00,toilet paper,4,toileteries
+132,3/2/2021 12:00,loaves,3,bakery
+133,3/2/2021 12:00,shampoo,7,personal care
+134,3/2/2021 12:00,beans,6,canned food
+135,3/2/2021 12:00,pork,25,meat
+136,3/2/2021 12:00,loaves,3,bakery
+137,3/2/2021 12:00,paper towels,11,toileteries
+138,3/2/2021 13:00,beans,7,canned food
+139,3/2/2021 13:00,ketchup,29,canned food
+140,3/2/2021 13:00,toilet paper,29,toileteries
+141,3/2/2021 13:00,oranges,25,fruits
+142,3/2/2021 13:00,shampoo,5,personal care
+143,3/2/2021 13:00,cookies,2,bakery
+144,3/2/2021 13:00,loaves,2,bakery
+145,3/2/2021 14:00,pork,10,meat
+146,3/2/2021 14:00,buns,13,bakery
+147,3/2/2021 14:00,cupcakes,9,bakery
+148,3/2/2021 14:00,shaving cream,27,personal care
+149,3/2/2021 14:00,tilapia,8,meat
+150,3/2/2021 15:00,toilet paper,25,toileteries
+151,3/2/2021 15:00,cookies,1,bakery
+152,3/2/2021 15:00,pork,29,meat
+153,3/2/2021 15:00,shaving cream,20,personal care
+154,3/2/2021 15:00,toilet paper,10,toileteries
+155,3/2/2021 15:00,tilapia,8,meat
+156,3/2/2021 15:00,bananas,28,fruits
+157,3/2/2021 15:00,chicken,5,meat
+158,3/2/2021 15:00,cookies,3,bakery
+159,3/2/2021 16:00,loaves,5,bakery
+160,3/2/2021 16:00,toilet paper,5,toileteries
+161,3/2/2021 16:00,toilet paper,27,toileteries
+162,3/2/2021 16:00,paper towels,18,toileteries
+163,3/2/2021 16:00,beef,14,meat
+164,3/2/2021 16:00,hand soap,5,personal care
+165,3/2/2021 16:00,oranges,17,fruits
+166,3/2/2021 17:00,soda,14,beverages
+167,3/2/2021 17:00,cookies,3,bakery
+168,3/2/2021 17:00,beans,8,canned food
+169,3/2/2021 17:00,coffee,26,beverages
+170,3/2/2021 17:00,beans,6,canned food
+171,3/2/2021 17:00,cupcakes,7,bakery
+172,3/2/2021 17:00,coffee,27,beverages
+173,3/2/2021 17:00,beans,5,canned food
+174,3/2/2021 17:00,toilet paper,26,toileteries
+175,3/2/2021 17:00,shampoo,8,personal care
+176,3/2/2021 17:00,shaving cream,12,personal care
+177,3/2/2021 17:00,beef,30,meat
+178,3/2/2021 17:00,beef,4,meat
+179,3/2/2021 17:00,paper towels,2,toileteries
+180,3/2/2021 18:00,tea,2,beverages
+181,3/2/2021 18:00,tea,2,beverages
+182,3/2/2021 18:00,cupcakes,10,bakery
+183,3/2/2021 18:00,shampoo,13,personal care
+184,3/2/2021 18:00,beef,5,meat
+185,3/2/2021 18:00,beef,17,meat
+186,3/2/2021 18:00,buns,29,bakery
+187,3/2/2021 18:00,dish soap,26,detergents
+188,3/2/2021 18:00,bananas,3,fruits
+189,3/2/2021 18:00,chicken,18,meat
+190,3/2/2021 19:00,tilapia,6,meat
+191,3/2/2021 19:00,toilet paper,20,toileteries
+192,3/2/2021 19:00,tea,5,beverages
+193,3/2/2021 19:00,toilet paper,21,toileteries
+194,3/2/2021 19:00,loaves,10,bakery
+195,3/2/2021 19:00,tilapia,10,meat
+196,3/2/2021 19:00,beans,6,canned food
+197,3/2/2021 19:00,laundry detergent,9,detergents
+198,3/2/2021 19:00,beef,10,meat
+199,3/2/2021 19:00,coffee,15,beverages
+200,3/2/2021 20:00,paper towels,12,toileteries
+201,3/2/2021 20:00,buns,17,bakery
+202,3/2/2021 20:00,soda,7,beverages
+203,3/2/2021 20:00,cupcakes,5,bakery
+204,3/2/2021 21:00,tea,4,beverages
+205,3/2/2021 21:00,all purpose,12,detergents
+206,3/2/2021 21:00,tilapia,10,meat
+207,3/2/2021 21:00,loaves,3,bakery
+208,3/2/2021 22:00,shaving cream,24,personal care
+209,3/2/2021 22:00,paper towels,14,toileteries
+210,3/2/2021 23:00,oranges,5,fruits
+211,3/2/2021 23:00,cookies,3,bakery
+212,3/3/2021 7:00,paper towels,9,toileteries
+213,3/3/2021 7:00,hand soap,4,personal care
+214,3/3/2021 7:00,toilet paper,5,toileteries
+215,3/3/2021 7:00,all purpose,1,detergents
+216,3/3/2021 7:00,hand soap,19,personal care
+217,3/3/2021 8:00,cupcakes,7,bakery
+218,3/3/2021 8:00,buns,3,bakery
+219,3/3/2021 8:00,chicken,4,meat
+220,3/3/2021 8:00,beef,17,meat
+221,3/3/2021 9:00,shampoo,14,personal care
+222,3/3/2021 9:00,apples,10,fruits
+223,3/3/2021 10:00,apples,21,fruits
+224,3/3/2021 10:00,cupcakes,7,bakery
+225,3/3/2021 11:00,toilet paper,30,toileteries
+226,3/3/2021 11:00,dish soap,25,detergents
+227,3/3/2021 11:00,laundry detergent,25,detergents
+228,3/3/2021 11:00,beef,19,meat
+229,3/3/2021 11:00,toilet paper,11,toileteries
+230,3/3/2021 11:00,paper towels,11,toileteries
+231,3/3/2021 11:00,shaving cream,4,personal care
+232,3/3/2021 11:00,beans,8,canned food
+233,3/3/2021 11:00,ketchup,29,canned food
+234,3/3/2021 11:00,buns,28,bakery
+235,3/3/2021 12:00,beans,5,canned food
+236,3/3/2021 12:00,beans,14,canned food
+237,3/3/2021 12:00,all purpose,2,detergents
+238,3/3/2021 12:00,ketchup,14,canned food
+239,3/3/2021 12:00,buns,16,bakery
+240,3/3/2021 12:00,coffee,7,beverages
+241,3/3/2021 12:00,buns,12,bakery
+242,3/3/2021 12:00,beef,9,meat
+243,3/3/2021 12:00,buns,29,bakery
+244,3/3/2021 12:00,dish soap,2,detergents
+245,3/3/2021 12:00,shaving cream,21,personal care
+246,3/3/2021 12:00,laundry detergent,25,detergents
+247,3/3/2021 13:00,toilet paper,3,toileteries
+248,3/3/2021 13:00,ketchup,28,canned food
+249,3/3/2021 13:00,oranges,25,fruits
+250,3/3/2021 13:00,soda,16,beverages
+251,3/3/2021 13:00,beef,12,meat
+252,3/3/2021 13:00,ketchup,6,canned food
+253,3/3/2021 13:00,tilapia,12,meat
+254,3/3/2021 13:00,laundry detergent,2,detergents
+255,3/3/2021 13:00,soda,13,beverages
+256,3/3/2021 13:00,loaves,6,bakery
+257,3/3/2021 14:00,beef,12,meat
+258,3/3/2021 15:00,soda,12,beverages
+259,3/3/2021 15:00,beef,27,meat
+260,3/3/2021 15:00,toilet paper,16,toileteries
+261,3/3/2021 15:00,tea,6,beverages
+262,3/3/2021 15:00,oranges,27,fruits
+263,3/3/2021 15:00,beans,5,canned food
+264,3/3/2021 15:00,tilapia,4,meat
+265,3/3/2021 15:00,coffee,18,beverages
+266,3/3/2021 16:00,tilapia,3,meat
+267,3/3/2021 16:00,buns,26,bakery
+268,3/3/2021 16:00,all purpose,29,detergents
+269,3/3/2021 17:00,cupcakes,13,bakery
+270,3/3/2021 17:00,coffee,27,beverages
+271,3/3/2021 17:00,buns,25,bakery
+272,3/3/2021 17:00,toilet paper,13,toileteries
+273,3/3/2021 17:00,bananas,17,fruits
+274,3/3/2021 17:00,shaving cream,1,personal care
+275,3/3/2021 17:00,shaving cream,24,personal care
+276,3/3/2021 17:00,coffee,26,beverages
+277,3/3/2021 17:00,ketchup,18,canned food
+278,3/3/2021 17:00,hand soap,3,personal care
+279,3/3/2021 17:00,shampoo,4,personal care
+280,3/3/2021 18:00,soda,26,beverages
+281,3/3/2021 18:00,shampoo,20,personal care
+282,3/3/2021 18:00,tea,6,beverages
+283,3/3/2021 18:00,bananas,24,fruits
+284,3/3/2021 18:00,cookies,2,bakery
+285,3/3/2021 18:00,pork,10,meat
+286,3/3/2021 18:00,hand soap,5,personal care
+287,3/3/2021 18:00,dish soap,24,detergents
+288,3/3/2021 18:00,shaving cream,26,personal care
+289,3/3/2021 18:00,ketchup,1,canned food
+290,3/3/2021 18:00,coffee,15,beverages
+291,3/3/2021 18:00,cookies,4,bakery
+292,3/3/2021 19:00,oranges,12,fruits
+293,3/3/2021 19:00,tea,5,beverages
+294,3/3/2021 19:00,toilet paper,3,toileteries
+295,3/3/2021 19:00,chicken,8,meat
+296,3/3/2021 20:00,hand soap,30,personal care
+297,3/3/2021 20:00,shaving cream,16,personal care
+298,3/3/2021 20:00,shampoo,5,personal care
+299,3/3/2021 20:00,loaves,5,bakery
+300,3/3/2021 20:00,loaves,5,bakery
+301,3/3/2021 21:00,ketchup,23,canned food
+302,3/3/2021 21:00,tea,4,beverages
+303,3/3/2021 21:00,paper towels,18,toileteries
+304,3/3/2021 22:00,soda,16,beverages
+305,3/3/2021 22:00,ketchup,19,canned food
+306,3/3/2021 23:00,chicken,12,meat
+307,3/3/2021 23:00,tea,6,beverages
+308,3/3/2021 23:00,all purpose,3,detergents
+309,3/3/2021 23:00,ketchup,28,canned food
+310,3/4/2021 8:00,beans,13,canned food
+311,3/4/2021 8:00,buns,26,bakery
+312,3/4/2021 8:00,hand soap,4,personal care
+313,3/4/2021 9:00,apples,1,fruits
+314,3/4/2021 9:00,bananas,11,fruits
+315,3/4/2021 9:00,coffee,23,beverages
+316,3/4/2021 9:00,toilet paper,27,toileteries
+317,3/4/2021 10:00,toilet paper,7,toileteries
+318,3/4/2021 10:00,beef,12,meat
+319,3/4/2021 10:00,bananas,15,fruits
+320,3/4/2021 10:00,toilet paper,3,toileteries
+321,3/4/2021 10:00,cupcakes,7,bakery
+322,3/4/2021 10:00,pork,23,meat
+323,3/4/2021 10:00,all purpose,7,detergents
+324,3/4/2021 11:00,oranges,15,fruits
+325,3/4/2021 11:00,paper towels,6,toileteries
+326,3/4/2021 11:00,beans,4,canned food
+327,3/4/2021 11:00,laundry detergent,5,detergents
+328,3/4/2021 11:00,tea,3,beverages
+329,3/4/2021 11:00,pork,9,meat
+330,3/4/2021 11:00,cookies,3,bakery
+331,3/4/2021 11:00,bananas,7,fruits
+332,3/4/2021 11:00,beans,13,canned food
+333,3/4/2021 11:00,ketchup,1,canned food
+334,3/4/2021 12:00,bananas,24,fruits
+335,3/4/2021 12:00,soda,12,beverages
+336,3/4/2021 12:00,soda,18,beverages
+337,3/4/2021 12:00,ketchup,7,canned food
+338,3/4/2021 12:00,tilapia,7,meat
+339,3/4/2021 12:00,shaving cream,18,personal care
+340,3/4/2021 12:00,cupcakes,2,bakery
+341,3/4/2021 13:00,hand soap,13,personal care
+342,3/4/2021 13:00,dish soap,18,detergents
+343,3/4/2021 13:00,ketchup,10,canned food
+344,3/4/2021 13:00,tilapia,11,meat
+345,3/4/2021 13:00,laundry detergent,10,detergents
+346,3/4/2021 13:00,bananas,28,fruits
+347,3/4/2021 13:00,hand soap,29,personal care
+348,3/4/2021 14:00,laundry detergent,17,detergents
+349,3/4/2021 14:00,loaves,8,bakery
+350,3/4/2021 14:00,soda,29,beverages
+351,3/4/2021 14:00,buns,14,bakery
+352,3/4/2021 15:00,tilapia,4,meat
+353,3/4/2021 15:00,tea,6,beverages
+354,3/4/2021 15:00,beef,13,meat
+355,3/4/2021 16:00,beef,3,meat
+356,3/4/2021 16:00,shaving cream,19,personal care
+357,3/4/2021 16:00,apples,19,fruits
+358,3/4/2021 16:00,apples,20,fruits
+359,3/4/2021 17:00,coffee,23,beverages
+360,3/4/2021 17:00,laundry detergent,18,detergents
+361,3/4/2021 17:00,chicken,18,meat
+362,3/4/2021 17:00,beef,5,meat
+363,3/4/2021 17:00,tilapia,3,meat
+364,3/4/2021 17:00,hand soap,28,personal care
+365,3/4/2021 17:00,soda,22,beverages
+366,3/4/2021 17:00,soda,23,beverages
+367,3/4/2021 17:00,coffee,18,beverages
+368,3/4/2021 17:00,shampoo,19,personal care
+369,3/4/2021 17:00,pork,29,meat
+370,3/4/2021 17:00,shaving cream,27,personal care
+371,3/4/2021 17:00,shampoo,4,personal care
+372,3/4/2021 17:00,tilapia,7,meat
+373,3/4/2021 18:00,hand soap,28,personal care
+374,3/4/2021 18:00,shaving cream,14,personal care
+375,3/4/2021 18:00,laundry detergent,17,detergents
+376,3/4/2021 18:00,coffee,13,beverages
+377,3/4/2021 18:00,oranges,30,fruits
+378,3/4/2021 18:00,all purpose,3,detergents
+379,3/4/2021 18:00,tea,1,beverages
+380,3/4/2021 18:00,apples,23,fruits
+381,3/4/2021 18:00,laundry detergent,23,detergents
+382,3/4/2021 18:00,buns,7,bakery
+383,3/4/2021 18:00,laundry detergent,20,detergents
+384,3/4/2021 18:00,chicken,30,meat
+385,3/4/2021 18:00,hand soap,4,personal care
+386,3/4/2021 18:00,coffee,4,beverages
+387,3/4/2021 18:00,coffee,20,beverages
+388,3/4/2021 18:00,cookies,2,bakery
+389,3/4/2021 19:00,soda,8,beverages
+390,3/4/2021 19:00,oranges,13,fruits
+391,3/4/2021 19:00,apples,15,fruits
+392,3/4/2021 19:00,bananas,11,fruits
+393,3/4/2021 20:00,tilapia,1,meat
+394,3/4/2021 20:00,dish soap,11,detergents
+395,3/4/2021 20:00,tilapia,3,meat
+396,3/4/2021 20:00,laundry detergent,17,detergents
+397,3/4/2021 21:00,hand soap,13,personal care
+398,3/4/2021 21:00,buns,16,bakery
+399,3/4/2021 21:00,tea,1,beverages
+400,3/4/2021 21:00,cupcakes,2,bakery
+401,3/4/2021 21:00,oranges,27,fruits
+402,3/4/2021 22:00,laundry detergent,17,detergents
+403,3/4/2021 23:00,dish soap,5,detergents
+404,3/5/2021 8:00,beef,26,meat
+405,3/5/2021 8:00,buns,3,bakery
+406,3/5/2021 8:00,soda,25,beverages
+407,3/5/2021 9:00,toilet paper,19,toileteries
+408,3/5/2021 9:00,beans,9,canned food
+409,3/5/2021 10:00,beef,8,meat
+410,3/5/2021 10:00,cookies,2,bakery
+411,3/5/2021 10:00,loaves,4,bakery
+412,3/5/2021 10:00,dish soap,15,detergents
+413,3/5/2021 10:00,hand soap,22,personal care
+414,3/5/2021 10:00,shampoo,1,personal care
+415,3/5/2021 10:00,buns,2,bakery
+416,3/5/2021 10:00,laundry detergent,4,detergents
+417,3/5/2021 11:00,cupcakes,5,bakery
+418,3/5/2021 11:00,laundry detergent,2,detergents
+419,3/5/2021 11:00,all purpose,2,detergents
+420,3/5/2021 11:00,ketchup,29,canned food
+421,3/5/2021 11:00,beans,8,canned food
+422,3/5/2021 11:00,pork,25,meat
+423,3/5/2021 11:00,cookies,2,bakery
+424,3/5/2021 11:00,paper towels,6,toileteries
+425,3/5/2021 11:00,cookies,1,bakery
+426,3/5/2021 12:00,cookies,4,bakery
+427,3/5/2021 12:00,bananas,22,fruits
+428,3/5/2021 12:00,paper towels,17,toileteries
+429,3/5/2021 12:00,tilapia,10,meat
+430,3/5/2021 12:00,cookies,4,bakery
+431,3/5/2021 12:00,paper towels,12,toileteries
+432,3/5/2021 12:00,beans,8,canned food
+433,3/5/2021 12:00,cookies,4,bakery
+434,3/5/2021 12:00,cupcakes,13,bakery
+435,3/5/2021 12:00,apples,28,fruits
+436,3/5/2021 12:00,cupcakes,2,bakery
+437,3/5/2021 13:00,buns,14,bakery
+438,3/5/2021 13:00,hand soap,9,personal care
+439,3/5/2021 13:00,laundry detergent,25,detergents
+440,3/5/2021 13:00,cookies,4,bakery
+441,3/5/2021 13:00,apples,20,fruits
+442,3/5/2021 13:00,shampoo,10,personal care
+443,3/5/2021 13:00,dish soap,29,detergents
+444,3/5/2021 13:00,all purpose,4,detergents
+445,3/5/2021 13:00,paper towels,3,toileteries
+446,3/5/2021 13:00,chicken,1,meat
+447,3/5/2021 13:00,oranges,6,fruits
+448,3/5/2021 13:00,tilapia,11,meat
+449,3/5/2021 13:00,soda,11,beverages
+450,3/5/2021 13:00,oranges,20,fruits
+451,3/5/2021 14:00,buns,26,bakery
+452,3/5/2021 14:00,shampoo,12,personal care
+453,3/5/2021 14:00,all purpose,8,detergents
+454,3/5/2021 14:00,shaving cream,17,personal care
+455,3/5/2021 14:00,dish soap,9,detergents
+456,3/5/2021 14:00,bananas,3,fruits
+457,3/5/2021 14:00,all purpose,5,detergents
+458,3/5/2021 14:00,cupcakes,7,bakery
+459,3/5/2021 14:00,tea,5,beverages
+460,3/5/2021 14:00,oranges,1,fruits
+461,3/5/2021 14:00,laundry detergent,6,detergents
+462,3/5/2021 14:00,loaves,4,bakery
+463,3/5/2021 15:00,beef,22,meat
+464,3/5/2021 15:00,loaves,10,bakery
+465,3/5/2021 15:00,cookies,2,bakery
+466,3/5/2021 15:00,dish soap,28,detergents
+467,3/5/2021 16:00,buns,8,bakery
+468,3/5/2021 16:00,beans,5,canned food
+469,3/5/2021 16:00,tea,1,beverages
+470,3/5/2021 16:00,paper towels,19,toileteries
+471,3/5/2021 16:00,hand soap,17,personal care
+472,3/5/2021 16:00,loaves,4,bakery
+473,3/5/2021 16:00,paper towels,18,toileteries
+474,3/5/2021 16:00,toilet paper,13,toileteries
+475,3/5/2021 17:00,buns,13,bakery
+476,3/5/2021 17:00,beans,5,canned food
+477,3/5/2021 17:00,shaving cream,20,personal care
+478,3/5/2021 17:00,buns,9,bakery
+479,3/5/2021 17:00,hand soap,11,personal care
+480,3/5/2021 17:00,chicken,5,meat
+481,3/5/2021 17:00,pork,21,meat
+482,3/5/2021 17:00,paper towels,6,toileteries
+483,3/5/2021 18:00,bananas,15,fruits
+484,3/5/2021 18:00,all purpose,24,detergents
+485,3/5/2021 18:00,soda,29,beverages
+486,3/5/2021 18:00,beef,18,meat
+487,3/5/2021 18:00,cupcakes,12,bakery
+488,3/5/2021 18:00,dish soap,9,detergents
+489,3/5/2021 18:00,bananas,11,fruits
+490,3/5/2021 18:00,oranges,5,fruits
+491,3/5/2021 18:00,toilet paper,20,toileteries
+492,3/5/2021 18:00,coffee,28,beverages
+493,3/5/2021 18:00,coffee,6,beverages
+494,3/5/2021 18:00,buns,13,bakery
+495,3/5/2021 18:00,ketchup,19,canned food
+496,3/5/2021 18:00,beans,2,canned food
+497,3/5/2021 19:00,pork,24,meat
+498,3/5/2021 19:00,all purpose,4,detergents
+499,3/5/2021 20:00,beans,11,canned food
+500,3/5/2021 20:00,soda,5,beverages
+501,3/5/2021 21:00,beans,7,canned food
+502,3/5/2021 21:00,toilet paper,13,toileteries
+503,3/5/2021 21:00,bananas,9,fruits
+504,3/5/2021 21:00,loaves,1,bakery
+505,3/5/2021 21:00,loaves,4,bakery
+506,3/5/2021 22:00,buns,13,bakery
+507,3/6/2021 8:00,beans,6,canned food
+508,3/6/2021 9:00,hand soap,24,personal care
+509,3/6/2021 9:00,oranges,26,fruits
+510,3/6/2021 9:00,tea,4,beverages
+511,3/6/2021 9:00,hand soap,5,personal care
+512,3/6/2021 9:00,chicken,27,meat
+513,3/6/2021 10:00,oranges,24,fruits
+514,3/6/2021 10:00,dish soap,26,detergents
+515,3/6/2021 10:00,shaving cream,30,personal care
+516,3/6/2021 10:00,pork,8,meat
+517,3/6/2021 10:00,tilapia,8,meat
+518,3/6/2021 11:00,loaves,3,bakery
+519,3/6/2021 11:00,pork,18,meat
+520,3/6/2021 11:00,coffee,16,beverages
+521,3/6/2021 11:00,cupcakes,6,bakery
+522,3/6/2021 11:00,oranges,10,fruits
+523,3/6/2021 11:00,bananas,4,fruits
+524,3/6/2021 11:00,tilapia,10,meat
+525,3/6/2021 12:00,shampoo,19,personal care
+526,3/6/2021 12:00,coffee,22,beverages
+527,3/6/2021 12:00,shaving cream,7,personal care
+528,3/6/2021 12:00,cupcakes,11,bakery
+529,3/6/2021 12:00,coffee,28,beverages
+530,3/6/2021 12:00,oranges,13,fruits
+531,3/6/2021 12:00,bananas,27,fruits
+532,3/6/2021 12:00,shampoo,7,personal care
+533,3/6/2021 12:00,loaves,1,bakery
+534,3/6/2021 12:00,paper towels,15,toileteries
+535,3/6/2021 12:00,dish soap,2,detergents
+536,3/6/2021 12:00,beef,27,meat
+537,3/6/2021 13:00,dish soap,15,detergents
+538,3/6/2021 13:00,paper towels,19,toileteries
+539,3/6/2021 13:00,tilapia,7,meat
+540,3/6/2021 13:00,coffee,9,beverages
+541,3/6/2021 13:00,laundry detergent,3,detergents
+542,3/6/2021 13:00,paper towels,7,toileteries
+543,3/6/2021 13:00,cupcakes,13,bakery
+544,3/6/2021 13:00,paper towels,12,toileteries
+545,3/6/2021 14:00,pork,30,meat
+546,3/6/2021 14:00,cookies,4,bakery
+547,3/6/2021 14:00,all purpose,6,detergents
+548,3/6/2021 15:00,cookies,3,bakery
+549,3/6/2021 15:00,paper towels,1,toileteries
+550,3/6/2021 15:00,hand soap,23,personal care
+551,3/6/2021 15:00,bananas,3,fruits
+552,3/6/2021 16:00,cookies,2,bakery
+553,3/6/2021 16:00,beef,11,meat
+554,3/6/2021 16:00,dish soap,22,detergents
+555,3/6/2021 16:00,ketchup,14,canned food
+556,3/6/2021 16:00,beans,6,canned food
+557,3/6/2021 16:00,all purpose,9,detergents
+558,3/6/2021 16:00,apples,20,fruits
+559,3/6/2021 16:00,oranges,28,fruits
+560,3/6/2021 16:00,soda,7,beverages
+561,3/6/2021 17:00,shaving cream,15,personal care
+562,3/6/2021 17:00,beef,14,meat
+563,3/6/2021 17:00,chicken,12,meat
+564,3/6/2021 17:00,paper towels,18,toileteries
+565,3/6/2021 17:00,laundry detergent,8,detergents
+566,3/6/2021 17:00,paper towels,16,toileteries
+567,3/6/2021 17:00,paper towels,9,toileteries
+568,3/6/2021 17:00,all purpose,3,detergents
+569,3/6/2021 17:00,laundry detergent,7,detergents
+570,3/6/2021 17:00,beef,18,meat
+571,3/6/2021 17:00,all purpose,27,detergents
+572,3/6/2021 17:00,cupcakes,6,bakery
+573,3/6/2021 17:00,oranges,15,fruits
+574,3/6/2021 17:00,tea,5,beverages
+575,3/6/2021 17:00,paper towels,4,toileteries
+576,3/6/2021 18:00,laundry detergent,20,detergents
+577,3/6/2021 18:00,soda,5,beverages
+578,3/6/2021 18:00,ketchup,14,canned food
+579,3/6/2021 18:00,beans,12,canned food
+580,3/6/2021 18:00,loaves,4,bakery
+581,3/6/2021 18:00,coffee,6,beverages
+582,3/6/2021 18:00,bananas,21,fruits
+583,3/6/2021 18:00,tilapia,9,meat
+584,3/6/2021 18:00,oranges,23,fruits
+585,3/6/2021 18:00,paper towels,9,toileteries
+586,3/6/2021 18:00,shampoo,5,personal care
+587,3/6/2021 18:00,soda,13,beverages
+588,3/6/2021 19:00,coffee,5,beverages
+589,3/6/2021 19:00,chicken,9,meat
+590,3/6/2021 19:00,paper towels,6,toileteries
+591,3/6/2021 19:00,soda,7,beverages
+592,3/6/2021 19:00,all purpose,7,detergents
+593,3/6/2021 19:00,paper towels,9,toileteries
+594,3/6/2021 19:00,toilet paper,10,toileteries
+595,3/6/2021 20:00,paper towels,8,toileteries
+596,3/6/2021 20:00,oranges,20,fruits
+597,3/6/2021 20:00,oranges,30,fruits
+598,3/6/2021 20:00,shaving cream,28,personal care
+599,3/6/2021 20:00,apples,4,fruits
+600,3/6/2021 20:00,oranges,28,fruits
+601,3/6/2021 20:00,beans,5,canned food
+602,3/6/2021 20:00,ketchup,25,canned food
+603,3/6/2021 21:00,soda,28,beverages
+604,3/6/2021 21:00,soda,8,beverages
+605,3/6/2021 21:00,all purpose,18,detergents
+606,3/6/2021 21:00,dish soap,22,detergents
+607,3/6/2021 21:00,dish soap,7,detergents
+608,3/6/2021 21:00,cupcakes,11,bakery
+609,3/6/2021 22:00,tilapia,10,meat
+610,3/6/2021 22:00,bananas,30,fruits
+611,3/6/2021 22:00,bananas,24,fruits
+612,3/6/2021 22:00,cupcakes,5,bakery
+613,3/6/2021 22:00,cupcakes,7,bakery
+614,3/6/2021 23:00,pork,4,meat
+615,3/6/2021 23:00,tea,6,beverages
+616,3/6/2021 23:00,tea,2,beverages
+617,3/7/2021 7:00,shampoo,19,personal care
+618,3/7/2021 7:00,bananas,4,fruits
+619,3/7/2021 8:00,apples,28,fruits
+620,3/7/2021 8:00,beans,3,canned food
+621,3/7/2021 9:00,beef,28,meat
+622,3/7/2021 9:00,soda,1,beverages
+623,3/7/2021 9:00,shaving cream,23,personal care
+624,3/7/2021 9:00,pork,22,meat
+625,3/7/2021 10:00,tea,1,beverages
+626,3/7/2021 10:00,loaves,9,bakery
+627,3/7/2021 10:00,coffee,6,beverages
+628,3/7/2021 10:00,coffee,26,beverages
+629,3/7/2021 10:00,oranges,23,fruits
+630,3/7/2021 10:00,soda,20,beverages
+631,3/7/2021 11:00,dish soap,28,detergents
+632,3/7/2021 11:00,loaves,3,bakery
+633,3/7/2021 11:00,tilapia,13,meat
+634,3/7/2021 11:00,paper towels,12,toileteries
+635,3/7/2021 12:00,laundry detergent,13,detergents
+636,3/7/2021 12:00,loaves,3,bakery
+637,3/7/2021 12:00,hand soap,25,personal care
+638,3/7/2021 12:00,all purpose,22,detergents
+639,3/7/2021 12:00,shampoo,18,personal care
+640,3/7/2021 12:00,paper towels,8,toileteries
+641,3/7/2021 12:00,paper towels,4,toileteries
+642,3/7/2021 12:00,cookies,3,bakery
+643,3/7/2021 12:00,loaves,7,bakery
+644,3/7/2021 12:00,shampoo,6,personal care
+645,3/7/2021 12:00,ketchup,11,canned food
+646,3/7/2021 13:00,tilapia,7,meat
+647,3/7/2021 13:00,ketchup,15,canned food
+648,3/7/2021 13:00,coffee,18,beverages
+649,3/7/2021 13:00,loaves,2,bakery
+650,3/7/2021 13:00,cupcakes,1,bakery
+651,3/7/2021 13:00,toilet paper,13,toileteries
+652,3/7/2021 13:00,oranges,30,fruits
+653,3/7/2021 13:00,coffee,7,beverages
+654,3/7/2021 13:00,all purpose,9,detergents
+655,3/7/2021 13:00,oranges,9,fruits
+656,3/7/2021 14:00,hand soap,10,personal care
+657,3/7/2021 14:00,buns,21,bakery
+658,3/7/2021 14:00,beef,7,meat
+659,3/7/2021 14:00,pork,25,meat
+660,3/7/2021 14:00,soda,9,beverages
+661,3/7/2021 14:00,apples,16,fruits
+662,3/7/2021 14:00,cookies,4,bakery
+663,3/7/2021 14:00,toilet paper,17,toileteries
+664,3/7/2021 15:00,ketchup,18,canned food
+665,3/7/2021 15:00,soda,12,beverages
+666,3/7/2021 15:00,dish soap,27,detergents
+667,3/7/2021 15:00,shaving cream,16,personal care
+668,3/7/2021 15:00,apples,9,fruits
+669,3/7/2021 15:00,paper towels,6,toileteries
+670,3/7/2021 15:00,cookies,3,bakery
+671,3/7/2021 16:00,shampoo,3,personal care
+672,3/7/2021 16:00,laundry detergent,19,detergents
+673,3/7/2021 16:00,chicken,4,meat
+674,3/7/2021 16:00,tea,6,beverages
+675,3/7/2021 16:00,cupcakes,2,bakery
+676,3/7/2021 16:00,oranges,11,fruits
+677,3/7/2021 16:00,loaves,2,bakery
+678,3/7/2021 17:00,dish soap,17,detergents
+679,3/7/2021 17:00,bananas,11,fruits
+680,3/7/2021 17:00,beef,30,meat
+681,3/7/2021 17:00,coffee,19,beverages
+682,3/7/2021 17:00,shaving cream,25,personal care
+683,3/7/2021 17:00,oranges,13,fruits
+684,3/7/2021 17:00,coffee,11,beverages
+685,3/7/2021 17:00,soda,14,beverages
+686,3/7/2021 17:00,apples,26,fruits
+687,3/7/2021 18:00,coffee,15,beverages
+688,3/7/2021 18:00,pork,2,meat
+689,3/7/2021 18:00,buns,28,bakery
+690,3/7/2021 18:00,laundry detergent,24,detergents
+691,3/7/2021 18:00,tilapia,9,meat
+692,3/7/2021 18:00,apples,16,fruits
+693,3/7/2021 18:00,paper towels,7,toileteries
+694,3/7/2021 18:00,tea,6,beverages
+695,3/7/2021 18:00,ketchup,15,canned food
+696,3/7/2021 18:00,cookies,2,bakery
+697,3/7/2021 18:00,cookies,2,bakery
+698,3/7/2021 20:00,hand soap,30,personal care
+699,3/7/2021 20:00,shaving cream,9,personal care
+700,3/7/2021 20:00,shampoo,5,personal care
+701,3/7/2021 20:00,apples,9,fruits
+702,3/7/2021 20:00,loaves,2,bakery
+703,3/7/2021 20:00,pork,8,meat
+704,3/7/2021 21:00,chicken,1,meat
+705,3/7/2021 21:00,all purpose,9,detergents
+706,3/7/2021 21:00,all purpose,29,detergents
+707,3/7/2021 21:00,beans,3,canned food
+708,3/7/2021 21:00,tea,2,beverages
+709,3/7/2021 21:00,tilapia,5,meat
+710,3/7/2021 21:00,oranges,21,fruits
+711,3/7/2021 22:00,paper towels,19,toileteries
+712,3/7/2021 22:00,laundry detergent,7,detergents
+713,3/7/2021 22:00,apples,23,fruits
+714,3/7/2021 23:00,ketchup,16,canned food
+715,3/7/2021 23:00,shaving cream,23,personal care
+716,3/8/2021 7:00,toilet paper,12,toileteries
+717,3/8/2021 8:00,apples,21,fruits
+718,3/8/2021 8:00,all purpose,11,detergents
+719,3/8/2021 8:00,beans,7,canned food
+720,3/8/2021 8:00,shaving cream,9,personal care
+721,3/8/2021 8:00,loaves,4,bakery
+722,3/8/2021 9:00,ketchup,25,canned food
+723,3/8/2021 9:00,shampoo,11,personal care
+724,3/8/2021 9:00,loaves,2,bakery
+725,3/8/2021 9:00,oranges,10,fruits
+726,3/8/2021 9:00,cupcakes,12,bakery
+727,3/8/2021 10:00,tea,6,beverages
+728,3/8/2021 10:00,loaves,7,bakery
+729,3/8/2021 10:00,loaves,7,bakery
+730,3/8/2021 11:00,shampoo,8,personal care
+731,3/8/2021 11:00,bananas,3,fruits
+732,3/8/2021 11:00,shaving cream,14,personal care
+733,3/8/2021 11:00,coffee,13,beverages
+734,3/8/2021 11:00,loaves,4,bakery
+735,3/8/2021 11:00,shaving cream,10,personal care
+736,3/8/2021 11:00,pork,10,meat
+737,3/8/2021 11:00,pork,26,meat
+738,3/8/2021 11:00,cupcakes,8,bakery
+739,3/8/2021 11:00,tea,6,beverages
+740,3/8/2021 12:00,tilapia,2,meat
+741,3/8/2021 12:00,dish soap,16,detergents
+742,3/8/2021 12:00,beans,1,canned food
+743,3/8/2021 12:00,hand soap,8,personal care
+744,3/8/2021 12:00,all purpose,24,detergents
+745,3/8/2021 12:00,cookies,1,bakery
+746,3/8/2021 12:00,soda,11,beverages
+747,3/8/2021 12:00,shaving cream,13,personal care
+748,3/8/2021 12:00,soda,21,beverages
+749,3/8/2021 12:00,shampoo,15,personal care
+750,3/8/2021 12:00,bananas,15,fruits
+751,3/8/2021 12:00,tea,2,beverages
+752,3/8/2021 13:00,buns,11,bakery
+753,3/8/2021 13:00,cookies,1,bakery
+754,3/8/2021 13:00,buns,25,bakery
+755,3/8/2021 13:00,chicken,8,meat
+756,3/8/2021 13:00,cupcakes,1,bakery
+757,3/8/2021 13:00,coffee,19,beverages
+758,3/8/2021 13:00,soda,5,beverages
+759,3/8/2021 13:00,loaves,10,bakery
+760,3/8/2021 13:00,oranges,14,fruits
+761,3/8/2021 13:00,dish soap,25,detergents
+762,3/8/2021 14:00,hand soap,25,personal care
+763,3/8/2021 14:00,apples,29,fruits
+764,3/8/2021 14:00,soda,11,beverages
+765,3/8/2021 14:00,shampoo,18,personal care
+766,3/8/2021 14:00,apples,22,fruits
+767,3/8/2021 14:00,oranges,27,fruits
+768,3/8/2021 15:00,tea,6,beverages
+769,3/8/2021 15:00,ketchup,12,canned food
+770,3/8/2021 15:00,dish soap,18,detergents
+771,3/8/2021 15:00,apples,25,fruits
+772,3/8/2021 15:00,beans,3,canned food
+773,3/8/2021 15:00,tea,6,beverages
+774,3/8/2021 15:00,cookies,4,bakery
+775,3/8/2021 15:00,cupcakes,2,bakery
+776,3/8/2021 15:00,coffee,18,beverages
+777,3/8/2021 16:00,cookies,1,bakery
+778,3/8/2021 16:00,apples,26,fruits
+779,3/8/2021 16:00,paper towels,6,toileteries
+780,3/8/2021 16:00,toilet paper,29,toileteries
+781,3/8/2021 16:00,beans,10,canned food
+782,3/8/2021 17:00,cupcakes,11,bakery
+783,3/8/2021 17:00,hand soap,23,personal care
+784,3/8/2021 17:00,cupcakes,1,bakery
+785,3/8/2021 17:00,shaving cream,20,personal care
+786,3/8/2021 17:00,loaves,7,bakery
+787,3/8/2021 17:00,laundry detergent,25,detergents
+788,3/8/2021 17:00,dish soap,19,detergents
+789,3/8/2021 17:00,chicken,27,meat
+790,3/8/2021 17:00,tea,4,beverages
+791,3/8/2021 17:00,loaves,1,bakery
+792,3/8/2021 17:00,apples,28,fruits
+793,3/8/2021 17:00,apples,20,fruits
+794,3/8/2021 17:00,shampoo,9,personal care
+795,3/8/2021 17:00,paper towels,3,toileteries
+796,3/8/2021 18:00,beans,9,canned food
+797,3/8/2021 18:00,shampoo,16,personal care
+798,3/8/2021 18:00,ketchup,23,canned food
+799,3/8/2021 18:00,beef,23,meat
+800,3/8/2021 18:00,laundry detergent,19,detergents
+801,3/8/2021 18:00,laundry detergent,19,detergents
+802,3/8/2021 18:00,tea,3,beverages
+803,3/8/2021 18:00,shampoo,16,personal care
+804,3/8/2021 18:00,chicken,27,meat
+805,3/8/2021 18:00,pork,1,meat
+806,3/8/2021 18:00,laundry detergent,19,detergents
+807,3/8/2021 19:00,coffee,13,beverages
+808,3/8/2021 19:00,pork,30,meat
+809,3/8/2021 19:00,tilapia,10,meat
+810,3/8/2021 19:00,cupcakes,12,bakery
+811,3/8/2021 19:00,ketchup,18,canned food
+812,3/8/2021 19:00,pork,27,meat
+813,3/8/2021 19:00,laundry detergent,10,detergents
+814,3/8/2021 19:00,toilet paper,27,toileteries
+815,3/8/2021 19:00,bananas,22,fruits
+816,3/8/2021 19:00,tea,3,beverages
+817,3/8/2021 20:00,shaving cream,10,personal care
+818,3/8/2021 20:00,tea,5,beverages
+819,3/8/2021 20:00,apples,13,fruits
+820,3/8/2021 20:00,beef,9,meat
+821,3/8/2021 20:00,buns,10,bakery
+822,3/8/2021 20:00,dish soap,28,detergents
+823,3/8/2021 20:00,soda,20,beverages
+824,3/8/2021 21:00,toilet paper,4,toileteries
+825,3/8/2021 21:00,shaving cream,23,personal care
+826,3/8/2021 21:00,cookies,1,bakery
+827,3/8/2021 21:00,shampoo,3,personal care
+828,3/8/2021 22:00,loaves,1,bakery
+829,3/8/2021 23:00,bananas,4,fruits
+830,3/8/2021 23:00,dish soap,24,detergents
+831,3/8/2021 23:00,hand soap,13,personal care
+832,3/8/2021 23:00,apples,3,fruits
+833,3/9/2021 7:00,shaving cream,12,personal care
+834,3/9/2021 7:00,coffee,18,beverages
+835,3/9/2021 7:00,buns,3,bakery
+836,3/9/2021 8:00,coffee,6,beverages
+837,3/9/2021 8:00,tilapia,7,meat
+838,3/9/2021 8:00,shampoo,5,personal care
+839,3/9/2021 9:00,laundry detergent,9,detergents
+840,3/9/2021 10:00,soda,23,beverages
+841,3/9/2021 10:00,shaving cream,14,personal care
+842,3/9/2021 10:00,chicken,17,meat
+843,3/9/2021 10:00,pork,7,meat
+844,3/9/2021 10:00,laundry detergent,25,detergents
+845,3/9/2021 10:00,oranges,11,fruits
+846,3/9/2021 11:00,toilet paper,18,toileteries
+847,3/9/2021 11:00,coffee,20,beverages
+848,3/9/2021 11:00,beans,7,canned food
+849,3/9/2021 11:00,laundry detergent,14,detergents
+850,3/9/2021 11:00,dish soap,13,detergents
+851,3/9/2021 11:00,chicken,1,meat
+852,3/9/2021 11:00,apples,17,fruits
+853,3/9/2021 11:00,oranges,11,fruits
+854,3/9/2021 12:00,cookies,2,bakery
+855,3/9/2021 12:00,shampoo,9,personal care
+856,3/9/2021 12:00,cupcakes,11,bakery
+857,3/9/2021 12:00,cupcakes,10,bakery
+858,3/9/2021 12:00,all purpose,17,detergents
+859,3/9/2021 12:00,coffee,24,beverages
+860,3/9/2021 12:00,cupcakes,11,bakery
+861,3/9/2021 12:00,apples,28,fruits
+862,3/9/2021 12:00,laundry detergent,12,detergents
+863,3/9/2021 13:00,paper towels,9,toileteries
+864,3/9/2021 13:00,tilapia,11,meat
+865,3/9/2021 13:00,pork,25,meat
+866,3/9/2021 13:00,soda,2,beverages
+867,3/9/2021 13:00,dish soap,26,detergents
+868,3/9/2021 13:00,shaving cream,3,personal care
+869,3/9/2021 14:00,soda,22,beverages
+870,3/9/2021 14:00,laundry detergent,22,detergents
+871,3/9/2021 14:00,oranges,10,fruits
+872,3/9/2021 14:00,all purpose,28,detergents
+873,3/9/2021 14:00,laundry detergent,22,detergents
+874,3/9/2021 15:00,loaves,3,bakery
+875,3/9/2021 15:00,laundry detergent,25,detergents
+876,3/9/2021 15:00,paper towels,17,toileteries
+877,3/9/2021 15:00,shampoo,1,personal care
+878,3/9/2021 15:00,laundry detergent,17,detergents
+879,3/9/2021 16:00,dish soap,23,detergents
+880,3/9/2021 16:00,apples,24,fruits
+881,3/9/2021 16:00,loaves,2,bakery
+882,3/9/2021 16:00,ketchup,21,canned food
+883,3/9/2021 16:00,laundry detergent,6,detergents
+884,3/9/2021 17:00,oranges,6,fruits
+885,3/9/2021 17:00,ketchup,16,canned food
+886,3/9/2021 17:00,oranges,24,fruits
+887,3/9/2021 17:00,pork,13,meat
+888,3/9/2021 17:00,bananas,2,fruits
+889,3/9/2021 17:00,buns,8,bakery
+890,3/9/2021 17:00,shampoo,4,personal care
+891,3/9/2021 17:00,loaves,4,bakery
+892,3/9/2021 18:00,cookies,1,bakery
+893,3/9/2021 18:00,paper towels,11,toileteries
+894,3/9/2021 18:00,pork,27,meat
+895,3/9/2021 18:00,buns,6,bakery
+896,3/9/2021 18:00,apples,13,fruits
+897,3/9/2021 18:00,shampoo,2,personal care
+898,3/9/2021 18:00,chicken,4,meat
+899,3/9/2021 18:00,beans,12,canned food
+900,3/9/2021 18:00,loaves,7,bakery
+901,3/9/2021 18:00,loaves,7,bakery
+902,3/9/2021 18:00,loaves,6,bakery
+903,3/9/2021 18:00,cupcakes,7,bakery
+904,3/9/2021 19:00,shampoo,3,personal care
+905,3/9/2021 19:00,tea,3,beverages
+906,3/9/2021 19:00,cupcakes,7,bakery
+907,3/9/2021 19:00,shampoo,2,personal care
+908,3/9/2021 20:00,bananas,13,fruits
+909,3/9/2021 20:00,toilet paper,7,toileteries
+910,3/9/2021 20:00,shampoo,19,personal care
+911,3/9/2021 20:00,hand soap,11,personal care
+912,3/9/2021 20:00,shaving cream,16,personal care
+913,3/9/2021 21:00,hand soap,25,personal care
+914,3/9/2021 21:00,shampoo,11,personal care
+915,3/9/2021 21:00,buns,11,bakery
+916,3/9/2021 21:00,tilapia,10,meat
+917,3/9/2021 21:00,beef,15,meat
+918,3/9/2021 21:00,hand soap,13,personal care
+919,3/9/2021 21:00,laundry detergent,1,detergents
+920,3/9/2021 21:00,paper towels,1,toileteries
+921,3/9/2021 22:00,laundry detergent,14,detergents
+922,3/10/2021 7:00,toilet paper,13,toileteries
+923,3/10/2021 7:00,beans,6,canned food
+924,3/10/2021 8:00,shaving cream,3,personal care
+925,3/10/2021 8:00,apples,27,fruits
+926,3/10/2021 9:00,beef,29,meat
+927,3/10/2021 9:00,laundry detergent,20,detergents
+928,3/10/2021 10:00,dish soap,12,detergents
+929,3/10/2021 10:00,shaving cream,29,personal care
+930,3/10/2021 10:00,beans,10,canned food
+931,3/10/2021 10:00,cookies,4,bakery
+932,3/10/2021 10:00,shaving cream,26,personal care
+933,3/10/2021 11:00,beef,23,meat
+934,3/10/2021 11:00,loaves,9,bakery
+935,3/10/2021 11:00,soda,20,beverages
+936,3/10/2021 12:00,cookies,1,bakery
+937,3/10/2021 12:00,beans,6,canned food
+938,3/10/2021 12:00,shaving cream,2,personal care
+939,3/10/2021 12:00,buns,5,bakery
+940,3/10/2021 12:00,all purpose,8,detergents
+941,3/10/2021 12:00,shampoo,15,personal care
+942,3/10/2021 12:00,apples,17,fruits
+943,3/10/2021 12:00,shampoo,9,personal care
+944,3/10/2021 12:00,cupcakes,1,bakery
+945,3/10/2021 12:00,dish soap,29,detergents
+946,3/10/2021 13:00,laundry detergent,22,detergents
+947,3/10/2021 13:00,paper towels,19,toileteries
+948,3/10/2021 13:00,dish soap,3,detergents
+949,3/10/2021 13:00,paper towels,15,toileteries
+950,3/10/2021 13:00,tea,1,beverages
+951,3/10/2021 13:00,bananas,10,fruits
+952,3/10/2021 14:00,paper towels,13,toileteries
+953,3/10/2021 14:00,tilapia,6,meat
+954,3/10/2021 14:00,laundry detergent,5,detergents
+955,3/10/2021 14:00,beef,8,meat
+956,3/10/2021 14:00,beef,19,meat
+957,3/10/2021 14:00,dish soap,6,detergents
+958,3/10/2021 15:00,pork,15,meat
+959,3/10/2021 15:00,toilet paper,10,toileteries
+960,3/10/2021 15:00,pork,2,meat
+961,3/10/2021 15:00,oranges,10,fruits
+962,3/10/2021 16:00,beef,19,meat
+963,3/10/2021 16:00,shampoo,10,personal care
+964,3/10/2021 16:00,paper towels,8,toileteries
+965,3/10/2021 16:00,cupcakes,12,bakery
+966,3/10/2021 16:00,chicken,23,meat
+967,3/10/2021 16:00,soda,26,beverages
+968,3/10/2021 17:00,beef,20,meat
+969,3/10/2021 17:00,loaves,6,bakery
+970,3/10/2021 17:00,paper towels,10,toileteries
+971,3/10/2021 17:00,chicken,16,meat
+972,3/10/2021 17:00,chicken,18,meat
+973,3/10/2021 17:00,laundry detergent,21,detergents
+974,3/10/2021 17:00,oranges,9,fruits
+975,3/10/2021 17:00,dish soap,4,detergents
+976,3/10/2021 17:00,cupcakes,1,bakery
+977,3/10/2021 17:00,pork,13,meat
+978,3/10/2021 17:00,shampoo,11,personal care
+979,3/10/2021 17:00,apples,27,fruits
+980,3/10/2021 17:00,soda,16,beverages
+981,3/10/2021 17:00,chicken,13,meat
+982,3/10/2021 18:00,apples,26,fruits
+983,3/10/2021 18:00,cupcakes,8,bakery
+984,3/10/2021 18:00,bananas,7,fruits
+985,3/10/2021 18:00,all purpose,14,detergents
+986,3/10/2021 18:00,buns,27,bakery
+987,3/10/2021 18:00,buns,25,bakery
+988,3/10/2021 18:00,coffee,9,beverages
+989,3/10/2021 18:00,all purpose,17,detergents
+990,3/10/2021 18:00,paper towels,2,toileteries
+991,3/10/2021 18:00,laundry detergent,12,detergents
+992,3/10/2021 18:00,apples,22,fruits
+993,3/10/2021 18:00,cupcakes,9,bakery
+994,3/10/2021 18:00,soda,21,beverages
+995,3/10/2021 19:00,shaving cream,4,personal care
+996,3/10/2021 19:00,beef,16,meat
+997,3/10/2021 19:00,coffee,21,beverages
+998,3/10/2021 19:00,cupcakes,7,bakery
+999,3/10/2021 19:00,bananas,7,fruits
+1000,3/10/2021 19:00,cookies,3,bakery
+1001,3/10/2021 19:00,coffee,14,beverages
+1002,3/10/2021 20:00,cupcakes,8,bakery
+1003,3/10/2021 20:00,shampoo,9,personal care
+1004,3/10/2021 20:00,shampoo,17,personal care
+1005,3/10/2021 20:00,tilapia,2,meat
+1006,3/10/2021 20:00,ketchup,5,canned food
+1007,3/10/2021 21:00,bananas,14,fruits
+1008,3/10/2021 21:00,soda,1,beverages
+1009,3/10/2021 21:00,shaving cream,6,personal care
+1010,3/10/2021 21:00,chicken,23,meat
+1011,3/10/2021 21:00,hand soap,3,personal care
+1012,3/10/2021 21:00,chicken,20,meat
+1013,3/10/2021 22:00,tilapia,9,meat
+1014,3/10/2021 22:00,oranges,8,fruits
+1015,3/10/2021 23:00,ketchup,23,canned food
+1016,3/10/2021 23:00,pork,18,meat
+1017,3/10/2021 23:00,laundry detergent,3,detergents
+1018,3/11/2021 8:00,ketchup,24,canned food
+1019,3/11/2021 8:00,loaves,5,bakery
+1020,3/11/2021 9:00,cookies,4,bakery
+1021,3/11/2021 9:00,beans,8,canned food
+1022,3/11/2021 9:00,hand soap,17,personal care
+1023,3/11/2021 9:00,apples,19,fruits
+1024,3/11/2021 10:00,chicken,29,meat
+1025,3/11/2021 10:00,shaving cream,6,personal care
+1026,3/11/2021 10:00,buns,24,bakery
+1027,3/11/2021 10:00,shampoo,8,personal care
+1028,3/11/2021 10:00,toilet paper,29,toileteries
+1029,3/11/2021 10:00,bananas,15,fruits
+1030,3/11/2021 10:00,laundry detergent,7,detergents
+1031,3/11/2021 10:00,pork,16,meat
+1032,3/11/2021 11:00,loaves,2,bakery
+1033,3/11/2021 11:00,beans,11,canned food
+1034,3/11/2021 11:00,oranges,4,fruits
+1035,3/11/2021 11:00,paper towels,6,toileteries
+1036,3/11/2021 11:00,beans,7,canned food
+1037,3/11/2021 11:00,oranges,14,fruits
+1038,3/11/2021 11:00,cupcakes,13,bakery
+1039,3/11/2021 11:00,pork,30,meat
+1040,3/11/2021 11:00,ketchup,5,canned food
+1041,3/11/2021 12:00,paper towels,10,toileteries
+1042,3/11/2021 12:00,soda,23,beverages
+1043,3/11/2021 12:00,beef,19,meat
+1044,3/11/2021 12:00,buns,13,bakery
+1045,3/11/2021 12:00,coffee,6,beverages
+1046,3/11/2021 12:00,dish soap,7,detergents
+1047,3/11/2021 12:00,laundry detergent,6,detergents
+1048,3/11/2021 12:00,coffee,23,beverages
+1049,3/11/2021 12:00,hand soap,16,personal care
+1050,3/11/2021 13:00,apples,12,fruits
+1051,3/11/2021 13:00,bananas,13,fruits
+1052,3/11/2021 13:00,beans,9,canned food
+1053,3/11/2021 13:00,shaving cream,18,personal care
+1054,3/11/2021 13:00,cookies,1,bakery
+1055,3/11/2021 13:00,bananas,18,fruits
+1056,3/11/2021 13:00,apples,11,fruits
+1057,3/11/2021 13:00,bananas,28,fruits
+1058,3/11/2021 13:00,loaves,3,bakery
+1059,3/11/2021 14:00,apples,29,fruits
+1060,3/11/2021 14:00,beans,3,canned food
+1061,3/11/2021 14:00,cupcakes,2,bakery
+1062,3/11/2021 14:00,tea,4,beverages
+1063,3/11/2021 14:00,shaving cream,29,personal care
+1064,3/11/2021 14:00,pork,12,meat
+1065,3/11/2021 14:00,cupcakes,7,bakery
+1066,3/11/2021 15:00,paper towels,13,toileteries
+1067,3/11/2021 15:00,cupcakes,9,bakery
+1068,3/11/2021 15:00,soda,24,beverages
+1069,3/11/2021 16:00,pork,17,meat
+1070,3/11/2021 16:00,bananas,11,fruits
+1071,3/11/2021 16:00,all purpose,5,detergents
+1072,3/11/2021 16:00,cupcakes,2,bakery
+1073,3/11/2021 16:00,tea,3,beverages
+1074,3/11/2021 16:00,shaving cream,8,personal care
+1075,3/11/2021 16:00,ketchup,21,canned food
+1076,3/11/2021 16:00,pork,20,meat
+1077,3/11/2021 17:00,cupcakes,12,bakery
+1078,3/11/2021 17:00,hand soap,2,personal care
+1079,3/11/2021 17:00,dish soap,13,detergents
+1080,3/11/2021 17:00,cookies,2,bakery
+1081,3/11/2021 17:00,oranges,20,fruits
+1082,3/11/2021 17:00,paper towels,11,toileteries
+1083,3/11/2021 17:00,beef,6,meat
+1084,3/11/2021 17:00,shampoo,18,personal care
+1085,3/11/2021 17:00,hand soap,20,personal care
+1086,3/11/2021 17:00,pork,25,meat
+1087,3/11/2021 17:00,hand soap,26,personal care
+1088,3/11/2021 17:00,beans,4,canned food
+1089,3/11/2021 17:00,oranges,24,fruits
+1090,3/11/2021 17:00,tea,4,beverages
+1091,3/11/2021 18:00,bananas,7,fruits
+1092,3/11/2021 18:00,toilet paper,20,toileteries
+1093,3/11/2021 18:00,oranges,5,fruits
+1094,3/11/2021 18:00,loaves,10,bakery
+1095,3/11/2021 18:00,tea,4,beverages
+1096,3/11/2021 18:00,loaves,6,bakery
+1097,3/11/2021 18:00,beef,17,meat
+1098,3/11/2021 18:00,paper towels,15,toileteries
+1099,3/11/2021 18:00,pork,10,meat
+1100,3/11/2021 18:00,cupcakes,1,bakery
+1101,3/11/2021 18:00,chicken,8,meat
+1102,3/11/2021 18:00,hand soap,16,personal care
+1103,3/11/2021 18:00,shaving cream,18,personal care
+1104,3/11/2021 19:00,hand soap,7,personal care
+1105,3/11/2021 19:00,bananas,12,fruits
+1106,3/11/2021 19:00,bananas,30,fruits
+1107,3/11/2021 19:00,coffee,21,beverages
+1108,3/11/2021 19:00,all purpose,8,detergents
+1109,3/11/2021 19:00,bananas,17,fruits
+1110,3/11/2021 20:00,ketchup,27,canned food
+1111,3/11/2021 20:00,hand soap,21,personal care
+1112,3/11/2021 20:00,ketchup,6,canned food
+1113,3/11/2021 21:00,coffee,22,beverages
+1114,3/11/2021 21:00,bananas,8,fruits
+1115,3/11/2021 21:00,buns,1,bakery
+1116,3/11/2021 21:00,dish soap,25,detergents
+1117,3/11/2021 21:00,shampoo,8,personal care
+1118,3/11/2021 22:00,coffee,27,beverages
+1119,3/11/2021 23:00,soda,15,beverages
+1120,3/11/2021 23:00,apples,2,fruits
+1121,3/12/2021 7:00,dish soap,28,detergents
+1122,3/12/2021 7:00,buns,28,bakery
+1123,3/12/2021 8:00,pork,8,meat
+1124,3/12/2021 8:00,tilapia,13,meat
+1125,3/12/2021 8:00,all purpose,16,detergents
+1126,3/12/2021 9:00,hand soap,3,personal care
+1127,3/12/2021 9:00,tea,3,beverages
+1128,3/12/2021 10:00,tilapia,13,meat
+1129,3/12/2021 10:00,pork,20,meat
+1130,3/12/2021 10:00,bananas,10,fruits
+1131,3/12/2021 10:00,cupcakes,10,bakery
+1132,3/12/2021 10:00,apples,9,fruits
+1133,3/12/2021 10:00,beans,12,canned food
+1134,3/12/2021 10:00,coffee,23,beverages
+1135,3/12/2021 10:00,cookies,2,bakery
+1136,3/12/2021 10:00,ketchup,29,canned food
+1137,3/12/2021 10:00,toilet paper,10,toileteries
+1138,3/12/2021 11:00,paper towels,8,toileteries
+1139,3/12/2021 11:00,tea,5,beverages
+1140,3/12/2021 11:00,ketchup,13,canned food
+1141,3/12/2021 11:00,shampoo,2,personal care
+1142,3/12/2021 11:00,buns,10,bakery
+1143,3/12/2021 11:00,coffee,30,beverages
+1144,3/12/2021 11:00,pork,7,meat
+1145,3/12/2021 11:00,all purpose,5,detergents
+1146,3/12/2021 11:00,bananas,14,fruits
+1147,3/12/2021 11:00,chicken,22,meat
+1148,3/12/2021 11:00,beef,29,meat
+1149,3/12/2021 12:00,cookies,3,bakery
+1150,3/12/2021 12:00,shampoo,8,personal care
+1151,3/12/2021 12:00,bananas,20,fruits
+1152,3/12/2021 12:00,all purpose,19,detergents
+1153,3/12/2021 12:00,paper towels,8,toileteries
+1154,3/12/2021 12:00,apples,18,fruits
+1155,3/12/2021 12:00,shampoo,19,personal care
+1156,3/12/2021 12:00,buns,26,bakery
+1157,3/12/2021 12:00,oranges,1,fruits
+1158,3/12/2021 12:00,ketchup,21,canned food
+1159,3/12/2021 13:00,all purpose,24,detergents
+1160,3/12/2021 13:00,apples,19,fruits
+1161,3/12/2021 13:00,shaving cream,10,personal care
+1162,3/12/2021 13:00,shampoo,12,personal care
+1163,3/12/2021 13:00,toilet paper,22,toileteries
+1164,3/12/2021 13:00,shampoo,11,personal care
+1165,3/12/2021 13:00,ketchup,29,canned food
+1166,3/12/2021 13:00,paper towels,10,toileteries
+1167,3/12/2021 13:00,laundry detergent,25,detergents
+1168,3/12/2021 14:00,shaving cream,25,personal care
+1169,3/12/2021 14:00,bananas,28,fruits
+1170,3/12/2021 14:00,ketchup,17,canned food
+1171,3/12/2021 14:00,all purpose,14,detergents
+1172,3/12/2021 14:00,apples,27,fruits
+1173,3/12/2021 14:00,beans,3,canned food
+1174,3/12/2021 15:00,beef,13,meat
+1175,3/12/2021 15:00,beans,5,canned food
+1176,3/12/2021 15:00,all purpose,26,detergents
+1177,3/12/2021 15:00,bananas,16,fruits
+1178,3/12/2021 15:00,pork,13,meat
+1179,3/12/2021 15:00,hand soap,22,personal care
+1180,3/12/2021 15:00,cookies,3,bakery
+1181,3/12/2021 16:00,loaves,10,bakery
+1182,3/12/2021 16:00,buns,6,bakery
+1183,3/12/2021 16:00,laundry detergent,21,detergents
+1184,3/12/2021 16:00,buns,30,bakery
+1185,3/12/2021 16:00,tilapia,2,meat
+1186,3/12/2021 16:00,shampoo,9,personal care
+1187,3/12/2021 16:00,apples,13,fruits
+1188,3/12/2021 16:00,paper towels,12,toileteries
+1189,3/12/2021 16:00,cookies,3,bakery
+1190,3/12/2021 16:00,chicken,20,meat
+1191,3/12/2021 17:00,buns,27,bakery
+1192,3/12/2021 17:00,tilapia,1,meat
+1193,3/12/2021 17:00,tilapia,2,meat
+1194,3/12/2021 17:00,hand soap,27,personal care
+1195,3/12/2021 17:00,tea,2,beverages
+1196,3/12/2021 17:00,cupcakes,2,bakery
+1197,3/12/2021 17:00,hand soap,24,personal care
+1198,3/12/2021 17:00,bananas,3,fruits
+1199,3/12/2021 18:00,ketchup,20,canned food
+1200,3/12/2021 18:00,oranges,9,fruits
+1201,3/12/2021 18:00,chicken,12,meat
+1202,3/12/2021 18:00,toilet paper,1,toileteries
+1203,3/12/2021 18:00,all purpose,15,detergents
+1204,3/12/2021 18:00,oranges,2,fruits
+1205,3/12/2021 18:00,pork,29,meat
+1206,3/12/2021 18:00,cookies,4,bakery
+1207,3/12/2021 18:00,tea,1,beverages
+1208,3/12/2021 18:00,oranges,19,fruits
+1209,3/12/2021 18:00,cookies,1,bakery
+1210,3/12/2021 19:00,tilapia,1,meat
+1211,3/12/2021 19:00,beef,3,meat
+1212,3/12/2021 19:00,shampoo,11,personal care
+1213,3/12/2021 19:00,cupcakes,3,bakery
+1214,3/12/2021 19:00,shampoo,15,personal care
+1215,3/12/2021 20:00,beef,11,meat
+1216,3/12/2021 20:00,shaving cream,23,personal care
+1217,3/12/2021 20:00,coffee,22,beverages
+1218,3/12/2021 21:00,cupcakes,10,bakery
+1219,3/12/2021 21:00,shaving cream,30,personal care
+1220,3/12/2021 21:00,chicken,11,meat
+1221,3/12/2021 21:00,chicken,1,meat
+1222,3/12/2021 21:00,loaves,7,bakery
+1223,3/12/2021 21:00,hand soap,29,personal care
+1224,3/12/2021 21:00,chicken,18,meat
+1225,3/12/2021 21:00,bananas,23,fruits
+1226,3/12/2021 21:00,soda,12,beverages
+1227,3/12/2021 22:00,hand soap,3,personal care
+1228,3/12/2021 23:00,ketchup,27,canned food
+1229,3/12/2021 23:00,beans,6,canned food
+1230,3/12/2021 23:00,paper towels,15,toileteries
+1231,3/13/2021 7:00,coffee,5,beverages
+1232,3/13/2021 8:00,oranges,10,fruits
+1233,3/13/2021 8:00,soda,13,beverages
+1234,3/13/2021 8:00,ketchup,24,canned food
+1235,3/13/2021 9:00,chicken,30,meat
+1236,3/13/2021 9:00,apples,3,fruits
+1237,3/13/2021 9:00,soda,2,beverages
+1238,3/13/2021 10:00,tilapia,9,meat
+1239,3/13/2021 10:00,beef,14,meat
+1240,3/13/2021 10:00,shaving cream,21,personal care
+1241,3/13/2021 10:00,beans,3,canned food
+1242,3/13/2021 10:00,ketchup,7,canned food
+1243,3/13/2021 11:00,cookies,2,bakery
+1244,3/13/2021 11:00,loaves,2,bakery
+1245,3/13/2021 11:00,oranges,5,fruits
+1246,3/13/2021 11:00,tea,6,beverages
+1247,3/13/2021 11:00,loaves,3,bakery
+1248,3/13/2021 11:00,hand soap,19,personal care
+1249,3/13/2021 11:00,chicken,23,meat
+1250,3/13/2021 12:00,beans,12,canned food
+1251,3/13/2021 12:00,all purpose,18,detergents
+1252,3/13/2021 12:00,paper towels,12,toileteries
+1253,3/13/2021 12:00,tea,6,beverages
+1254,3/13/2021 12:00,tea,5,beverages
+1255,3/13/2021 12:00,shaving cream,27,personal care
+1256,3/13/2021 12:00,beef,10,meat
+1257,3/13/2021 12:00,chicken,26,meat
+1258,3/13/2021 13:00,coffee,20,beverages
+1259,3/13/2021 13:00,tea,1,beverages
+1260,3/13/2021 13:00,shampoo,19,personal care
+1261,3/13/2021 13:00,oranges,24,fruits
+1262,3/13/2021 13:00,buns,12,bakery
+1263,3/13/2021 13:00,coffee,21,beverages
+1264,3/13/2021 13:00,dish soap,15,detergents
+1265,3/13/2021 14:00,cupcakes,5,bakery
+1266,3/13/2021 14:00,beans,2,canned food
+1267,3/13/2021 14:00,paper towels,6,toileteries
+1268,3/13/2021 14:00,all purpose,15,detergents
+1269,3/13/2021 15:00,laundry detergent,22,detergents
+1270,3/13/2021 15:00,tea,6,beverages
+1271,3/13/2021 15:00,dish soap,7,detergents
+1272,3/13/2021 15:00,beans,14,canned food
+1273,3/13/2021 16:00,soda,27,beverages
+1274,3/13/2021 16:00,paper towels,17,toileteries
+1275,3/13/2021 16:00,tea,4,beverages
+1276,3/13/2021 16:00,cupcakes,10,bakery
+1277,3/13/2021 16:00,beef,10,meat
+1278,3/13/2021 17:00,tea,2,beverages
+1279,3/13/2021 17:00,beef,2,meat
+1280,3/13/2021 17:00,oranges,16,fruits
+1281,3/13/2021 17:00,loaves,4,bakery
+1282,3/13/2021 17:00,coffee,27,beverages
+1283,3/13/2021 17:00,tea,3,beverages
+1284,3/13/2021 17:00,ketchup,14,canned food
+1285,3/13/2021 17:00,toilet paper,11,toileteries
+1286,3/13/2021 17:00,bananas,29,fruits
+1287,3/13/2021 18:00,soda,14,beverages
+1288,3/13/2021 18:00,dish soap,12,detergents
+1289,3/13/2021 18:00,ketchup,15,canned food
+1290,3/13/2021 18:00,paper towels,5,toileteries
+1291,3/13/2021 18:00,apples,22,fruits
+1292,3/13/2021 18:00,tilapia,2,meat
+1293,3/13/2021 18:00,dish soap,27,detergents
+1294,3/13/2021 18:00,shaving cream,14,personal care
+1295,3/13/2021 18:00,tea,2,beverages
+1296,3/13/2021 18:00,cookies,3,bakery
+1297,3/13/2021 19:00,ketchup,11,canned food
+1298,3/13/2021 19:00,apples,23,fruits
+1299,3/13/2021 19:00,dish soap,8,detergents
+1300,3/13/2021 19:00,hand soap,24,personal care
+1301,3/13/2021 19:00,tilapia,2,meat
+1302,3/13/2021 19:00,oranges,4,fruits
+1303,3/13/2021 19:00,toilet paper,1,toileteries
+1304,3/13/2021 19:00,beef,13,meat
+1305,3/13/2021 20:00,hand soap,22,personal care
+1306,3/13/2021 20:00,coffee,25,beverages
+1307,3/13/2021 20:00,coffee,7,beverages
+1308,3/13/2021 20:00,pork,6,meat
+1309,3/13/2021 20:00,beef,5,meat
+1310,3/13/2021 20:00,cookies,4,bakery
+1311,3/13/2021 21:00,beans,3,canned food
+1312,3/13/2021 21:00,all purpose,15,detergents
+1313,3/13/2021 21:00,cupcakes,9,bakery
+1314,3/13/2021 21:00,tilapia,4,meat
+1315,3/13/2021 21:00,soda,25,beverages
+1316,3/13/2021 22:00,buns,14,bakery
+1317,3/13/2021 22:00,beans,6,canned food
+1318,3/13/2021 22:00,apples,5,fruits
+1319,3/13/2021 22:00,coffee,8,beverages
+1320,3/13/2021 23:00,beef,1,meat
+1321,3/14/2021 8:00,beans,14,canned food
+1322,3/14/2021 8:00,paper towels,6,toileteries
+1323,3/14/2021 8:00,hand soap,14,personal care
+1324,3/14/2021 9:00,loaves,8,bakery
+1325,3/14/2021 9:00,tea,5,beverages
+1326,3/14/2021 10:00,soda,6,beverages
+1327,3/14/2021 10:00,beans,1,canned food
+1328,3/14/2021 10:00,shampoo,12,personal care
+1329,3/14/2021 10:00,shaving cream,10,personal care
+1330,3/14/2021 10:00,bananas,1,fruits
+1331,3/14/2021 10:00,chicken,27,meat
+1332,3/14/2021 10:00,bananas,28,fruits
+1333,3/14/2021 10:00,hand soap,16,personal care
+1334,3/14/2021 11:00,cookies,1,bakery
+1335,3/14/2021 11:00,ketchup,10,canned food
+1336,3/14/2021 11:00,apples,4,fruits
+1337,3/14/2021 11:00,shampoo,14,personal care
+1338,3/14/2021 11:00,shaving cream,5,personal care
+1339,3/14/2021 11:00,coffee,30,beverages
+1340,3/14/2021 11:00,cupcakes,5,bakery
+1341,3/14/2021 11:00,cupcakes,2,bakery
+1342,3/14/2021 12:00,shampoo,20,personal care
+1343,3/14/2021 12:00,shaving cream,4,personal care
+1344,3/14/2021 12:00,chicken,25,meat
+1345,3/14/2021 12:00,paper towels,8,toileteries
+1346,3/14/2021 12:00,toilet paper,19,toileteries
+1347,3/14/2021 12:00,pork,5,meat
+1348,3/14/2021 13:00,shampoo,5,personal care
+1349,3/14/2021 13:00,beans,7,canned food
+1350,3/14/2021 13:00,chicken,8,meat
+1351,3/14/2021 13:00,coffee,7,beverages
+1352,3/14/2021 13:00,ketchup,4,canned food
+1353,3/14/2021 13:00,chicken,23,meat
+1354,3/14/2021 13:00,cookies,3,bakery
+1355,3/14/2021 13:00,shaving cream,11,personal care
+1356,3/14/2021 13:00,shaving cream,24,personal care
+1357,3/14/2021 13:00,cupcakes,13,bakery
+1358,3/14/2021 13:00,cupcakes,3,bakery
+1359,3/14/2021 13:00,bananas,4,fruits
+1360,3/14/2021 13:00,shampoo,3,personal care
+1361,3/14/2021 13:00,pork,7,meat
+1362,3/14/2021 14:00,cupcakes,3,bakery
+1363,3/14/2021 14:00,pork,13,meat
+1364,3/14/2021 14:00,hand soap,16,personal care
+1365,3/14/2021 14:00,tilapia,3,meat
+1366,3/14/2021 14:00,soda,13,beverages
+1367,3/14/2021 14:00,shaving cream,14,personal care
+1368,3/14/2021 14:00,pork,10,meat
+1369,3/14/2021 14:00,cupcakes,6,bakery
+1370,3/14/2021 15:00,chicken,29,meat
+1371,3/14/2021 15:00,bananas,28,fruits
+1372,3/14/2021 15:00,shampoo,7,personal care
+1373,3/14/2021 15:00,dish soap,17,detergents
+1374,3/14/2021 16:00,ketchup,25,canned food
+1375,3/14/2021 16:00,dish soap,12,detergents
+1376,3/14/2021 16:00,buns,2,bakery
+1377,3/14/2021 16:00,oranges,19,fruits
+1378,3/14/2021 17:00,tea,3,beverages
+1379,3/14/2021 17:00,tea,6,beverages
+1380,3/14/2021 17:00,tea,3,beverages
+1381,3/14/2021 17:00,bananas,6,fruits
+1382,3/14/2021 17:00,loaves,10,bakery
+1383,3/14/2021 17:00,shampoo,11,personal care
+1384,3/14/2021 17:00,chicken,16,meat
+1385,3/14/2021 17:00,pork,22,meat
+1386,3/14/2021 18:00,soda,4,beverages
+1387,3/14/2021 18:00,paper towels,1,toileteries
+1388,3/14/2021 18:00,shampoo,12,personal care
+1389,3/14/2021 18:00,coffee,9,beverages
+1390,3/14/2021 18:00,ketchup,17,canned food
+1391,3/14/2021 18:00,cupcakes,2,bakery
+1392,3/14/2021 18:00,cupcakes,11,bakery
+1393,3/14/2021 18:00,ketchup,14,canned food
+1394,3/14/2021 18:00,paper towels,17,toileteries
+1395,3/14/2021 18:00,buns,9,bakery
+1396,3/14/2021 18:00,apples,16,fruits
+1397,3/14/2021 18:00,coffee,25,beverages
+1398,3/14/2021 19:00,apples,25,fruits
+1399,3/14/2021 19:00,laundry detergent,9,detergents
+1400,3/14/2021 19:00,buns,19,bakery
+1401,3/14/2021 19:00,tea,2,beverages
+1402,3/14/2021 19:00,ketchup,16,canned food
+1403,3/14/2021 19:00,pork,28,meat
+1404,3/14/2021 19:00,beef,10,meat
+1405,3/14/2021 20:00,cupcakes,2,bakery
+1406,3/14/2021 20:00,tea,3,beverages
+1407,3/14/2021 20:00,beans,3,canned food
+1408,3/14/2021 20:00,chicken,19,meat
+1409,3/14/2021 20:00,cookies,2,bakery
+1410,3/14/2021 20:00,oranges,5,fruits
+1411,3/14/2021 20:00,bananas,2,fruits
+1412,3/14/2021 21:00,shaving cream,16,personal care
+1413,3/14/2021 21:00,beans,2,canned food
+1414,3/14/2021 21:00,shaving cream,29,personal care
+1415,3/14/2021 21:00,buns,6,bakery
+1416,3/14/2021 22:00,coffee,19,beverages
+1417,3/14/2021 23:00,cookies,2,bakery
+1418,3/14/2021 23:00,pork,28,meat
+1419,3/14/2021 23:00,soda,29,beverages
+1420,3/15/2021 7:00,tilapia,10,meat
+1421,3/15/2021 7:00,dish soap,14,detergents
+1422,3/15/2021 8:00,all purpose,20,detergents
+1423,3/15/2021 8:00,dish soap,22,detergents
+1424,3/15/2021 8:00,tilapia,8,meat
+1425,3/15/2021 8:00,paper towels,19,toileteries
+1426,3/15/2021 8:00,shampoo,14,personal care
+1427,3/15/2021 9:00,buns,17,bakery
+1428,3/15/2021 9:00,tea,1,beverages
+1429,3/15/2021 9:00,cookies,4,bakery
+1430,3/15/2021 10:00,cupcakes,5,bakery
+1431,3/15/2021 10:00,coffee,3,beverages
+1432,3/15/2021 10:00,shaving cream,7,personal care
+1433,3/15/2021 10:00,laundry detergent,21,detergents
+1434,3/15/2021 10:00,paper towels,1,toileteries
+1435,3/15/2021 10:00,all purpose,15,detergents
+1436,3/15/2021 10:00,tea,3,beverages
+1437,3/15/2021 10:00,coffee,30,beverages
+1438,3/15/2021 10:00,coffee,25,beverages
+1439,3/15/2021 11:00,buns,14,bakery
+1440,3/15/2021 11:00,paper towels,9,toileteries
+1441,3/15/2021 11:00,soda,28,beverages
+1442,3/15/2021 11:00,coffee,26,beverages
+1443,3/15/2021 11:00,tilapia,4,meat
+1444,3/15/2021 11:00,toilet paper,23,toileteries
+1445,3/15/2021 11:00,paper towels,16,toileteries
+1446,3/15/2021 11:00,chicken,16,meat
+1447,3/15/2021 11:00,tea,1,beverages
+1448,3/15/2021 11:00,paper towels,6,toileteries
+1449,3/15/2021 12:00,soda,4,beverages
+1450,3/15/2021 12:00,cookies,1,bakery
+1451,3/15/2021 12:00,beef,19,meat
+1452,3/15/2021 12:00,laundry detergent,1,detergents
+1453,3/15/2021 12:00,dish soap,27,detergents
+1454,3/15/2021 12:00,soda,28,beverages
+1455,3/15/2021 12:00,pork,19,meat
+1456,3/15/2021 12:00,ketchup,5,canned food
+1457,3/15/2021 12:00,shampoo,12,personal care
+1458,3/15/2021 12:00,dish soap,5,detergents
+1459,3/15/2021 12:00,beans,14,canned food
+1460,3/15/2021 13:00,dish soap,26,detergents
+1461,3/15/2021 13:00,cupcakes,4,bakery
+1462,3/15/2021 13:00,pork,16,meat
+1463,3/15/2021 13:00,buns,3,bakery
+1464,3/15/2021 13:00,paper towels,15,toileteries
+1465,3/15/2021 13:00,bananas,12,fruits
+1466,3/15/2021 13:00,shampoo,10,personal care
+1467,3/15/2021 13:00,tea,2,beverages
+1468,3/15/2021 13:00,coffee,11,beverages
+1469,3/15/2021 14:00,buns,7,bakery
+1470,3/15/2021 14:00,chicken,18,meat
+1471,3/15/2021 14:00,shampoo,20,personal care
+1472,3/15/2021 14:00,chicken,24,meat
+1473,3/15/2021 15:00,toilet paper,8,toileteries
+1474,3/15/2021 15:00,apples,12,fruits
+1475,3/15/2021 15:00,shampoo,11,personal care
+1476,3/15/2021 15:00,pork,1,meat
+1477,3/15/2021 15:00,shaving cream,3,personal care
+1478,3/15/2021 15:00,beans,13,canned food
+1479,3/15/2021 16:00,ketchup,11,canned food
+1480,3/15/2021 16:00,ketchup,2,canned food
+1481,3/15/2021 16:00,paper towels,19,toileteries
+1482,3/15/2021 16:00,paper towels,6,toileteries
+1483,3/15/2021 16:00,toilet paper,20,toileteries
+1484,3/15/2021 16:00,paper towels,3,toileteries
+1485,3/15/2021 16:00,soda,5,beverages
+1486,3/15/2021 16:00,ketchup,7,canned food
+1487,3/15/2021 16:00,bananas,25,fruits
+1488,3/15/2021 16:00,ketchup,25,canned food
+1489,3/15/2021 16:00,tilapia,5,meat
+1490,3/15/2021 16:00,toilet paper,16,toileteries
+1491,3/15/2021 17:00,soda,26,beverages
+1492,3/15/2021 17:00,apples,17,fruits
+1493,3/15/2021 17:00,shaving cream,19,personal care
+1494,3/15/2021 17:00,chicken,21,meat
+1495,3/15/2021 17:00,shaving cream,17,personal care
+1496,3/15/2021 17:00,tilapia,10,meat
+1497,3/15/2021 17:00,shaving cream,6,personal care
+1498,3/15/2021 18:00,chicken,28,meat
+1499,3/15/2021 18:00,buns,2,bakery
+1500,3/15/2021 18:00,laundry detergent,22,detergents
+1501,3/15/2021 18:00,cupcakes,5,bakery
+1502,3/15/2021 18:00,beef,14,meat
+1503,3/15/2021 18:00,coffee,28,beverages
+1504,3/15/2021 18:00,shaving cream,4,personal care
+1505,3/15/2021 18:00,coffee,7,beverages
+1506,3/15/2021 18:00,soda,5,beverages
+1507,3/15/2021 18:00,cupcakes,13,bakery
+1508,3/15/2021 18:00,beef,6,meat
+1509,3/15/2021 18:00,shaving cream,1,personal care
+1510,3/15/2021 18:00,tea,3,beverages
+1511,3/15/2021 18:00,soda,5,beverages
+1512,3/15/2021 18:00,shampoo,14,personal care
+1513,3/15/2021 18:00,shampoo,6,personal care
+1514,3/15/2021 18:00,shaving cream,11,personal care
+1515,3/15/2021 19:00,loaves,2,bakery
+1516,3/15/2021 19:00,cupcakes,6,bakery
+1517,3/15/2021 19:00,tilapia,1,meat
+1518,3/15/2021 19:00,pork,29,meat
+1519,3/15/2021 19:00,tea,2,beverages
+1520,3/15/2021 19:00,all purpose,2,detergents
+1521,3/15/2021 19:00,oranges,17,fruits
+1522,3/15/2021 19:00,bananas,5,fruits
+1523,3/15/2021 19:00,beef,6,meat
+1524,3/15/2021 20:00,beans,13,canned food
+1525,3/15/2021 20:00,beans,4,canned food
+1526,3/15/2021 20:00,dish soap,30,detergents
+1527,3/15/2021 20:00,chicken,9,meat
+1528,3/15/2021 20:00,ketchup,20,canned food
+1529,3/15/2021 20:00,cookies,2,bakery
+1530,3/15/2021 21:00,paper towels,14,toileteries
+1531,3/15/2021 21:00,toilet paper,17,toileteries
+1532,3/15/2021 21:00,buns,4,bakery
+1533,3/15/2021 21:00,cupcakes,2,bakery
+1534,3/15/2021 21:00,tilapia,13,meat
+1535,3/15/2021 22:00,paper towels,14,toileteries
+1536,3/15/2021 22:00,tea,6,beverages
+1537,3/15/2021 23:00,paper towels,11,toileteries
+1538,3/16/2021 7:00,tilapia,7,meat
+1539,3/16/2021 7:00,toilet paper,23,toileteries
+1540,3/16/2021 7:00,pork,6,meat
+1541,3/16/2021 8:00,cookies,4,bakery
+1542,3/16/2021 8:00,loaves,10,bakery
+1543,3/16/2021 9:00,tea,5,beverages
+1544,3/16/2021 9:00,chicken,11,meat
+1545,3/16/2021 9:00,soda,25,beverages
+1546,3/16/2021 10:00,paper towels,1,toileteries
+1547,3/16/2021 10:00,apples,2,fruits
+1548,3/16/2021 11:00,cupcakes,4,bakery
+1549,3/16/2021 11:00,beef,6,meat
+1550,3/16/2021 11:00,shampoo,9,personal care
+1551,3/16/2021 11:00,cupcakes,8,bakery
+1552,3/16/2021 11:00,tea,1,beverages
+1553,3/16/2021 11:00,pork,3,meat
+1554,3/16/2021 11:00,pork,6,meat
+1555,3/16/2021 11:00,tilapia,7,meat
+1556,3/16/2021 12:00,soda,2,beverages
+1557,3/16/2021 12:00,apples,25,fruits
+1558,3/16/2021 12:00,beans,12,canned food
+1559,3/16/2021 12:00,bananas,21,fruits
+1560,3/16/2021 12:00,cookies,2,bakery
+1561,3/16/2021 12:00,loaves,3,bakery
+1562,3/16/2021 12:00,chicken,23,meat
+1563,3/16/2021 12:00,beef,30,meat
+1564,3/16/2021 12:00,cupcakes,5,bakery
+1565,3/16/2021 12:00,paper towels,8,toileteries
+1566,3/16/2021 12:00,shaving cream,29,personal care
+1567,3/16/2021 12:00,pork,5,meat
+1568,3/16/2021 12:00,shampoo,7,personal care
+1569,3/16/2021 12:00,shampoo,20,personal care
+1570,3/16/2021 13:00,hand soap,3,personal care
+1571,3/16/2021 13:00,beans,10,canned food
+1572,3/16/2021 13:00,dish soap,29,detergents
+1573,3/16/2021 13:00,coffee,21,beverages
+1574,3/16/2021 13:00,shaving cream,27,personal care
+1575,3/16/2021 13:00,tilapia,12,meat
+1576,3/16/2021 13:00,hand soap,21,personal care
+1577,3/16/2021 13:00,hand soap,27,personal care
+1578,3/16/2021 13:00,buns,8,bakery
+1579,3/16/2021 13:00,soda,4,beverages
+1580,3/16/2021 13:00,ketchup,8,canned food
+1581,3/16/2021 13:00,laundry detergent,18,detergents
+1582,3/16/2021 13:00,coffee,16,beverages
+1583,3/16/2021 14:00,tilapia,10,meat
+1584,3/16/2021 14:00,apples,29,fruits
+1585,3/16/2021 14:00,beef,24,meat
+1586,3/16/2021 14:00,cupcakes,8,bakery
+1587,3/16/2021 14:00,cupcakes,13,bakery
+1588,3/16/2021 15:00,coffee,15,beverages
+1589,3/16/2021 15:00,loaves,1,bakery
+1590,3/16/2021 16:00,soda,6,beverages
+1591,3/16/2021 16:00,paper towels,13,toileteries
+1592,3/16/2021 16:00,laundry detergent,4,detergents
+1593,3/16/2021 16:00,toilet paper,26,toileteries
+1594,3/16/2021 16:00,laundry detergent,19,detergents
+1595,3/16/2021 17:00,tilapia,3,meat
+1596,3/16/2021 17:00,paper towels,15,toileteries
+1597,3/16/2021 17:00,hand soap,17,personal care
+1598,3/16/2021 17:00,pork,6,meat
+1599,3/16/2021 17:00,shaving cream,13,personal care
+1600,3/16/2021 17:00,shaving cream,29,personal care
+1601,3/16/2021 17:00,oranges,18,fruits
+1602,3/16/2021 17:00,bananas,13,fruits
+1603,3/16/2021 17:00,soda,28,beverages
+1604,3/16/2021 17:00,beef,20,meat
+1605,3/16/2021 17:00,buns,2,bakery
+1606,3/16/2021 17:00,pork,10,meat
+1607,3/16/2021 18:00,all purpose,19,detergents
+1608,3/16/2021 18:00,bananas,10,fruits
+1609,3/16/2021 18:00,dish soap,18,detergents
+1610,3/16/2021 18:00,dish soap,5,detergents
+1611,3/16/2021 18:00,cupcakes,10,bakery
+1612,3/16/2021 18:00,shampoo,13,personal care
+1613,3/16/2021 18:00,paper towels,4,toileteries
+1614,3/16/2021 18:00,laundry detergent,4,detergents
+1615,3/16/2021 18:00,oranges,8,fruits
+1616,3/16/2021 18:00,chicken,2,meat
+1617,3/16/2021 19:00,apples,16,fruits
+1618,3/16/2021 19:00,all purpose,2,detergents
+1619,3/16/2021 19:00,dish soap,20,detergents
+1620,3/16/2021 19:00,tilapia,10,meat
+1621,3/16/2021 19:00,beans,11,canned food
+1622,3/16/2021 20:00,soda,8,beverages
+1623,3/16/2021 20:00,ketchup,26,canned food
+1624,3/16/2021 20:00,tilapia,3,meat
+1625,3/16/2021 20:00,bananas,14,fruits
+1626,3/16/2021 21:00,buns,6,bakery
+1627,3/16/2021 21:00,beef,3,meat
+1628,3/16/2021 21:00,bananas,7,fruits
+1629,3/16/2021 21:00,coffee,2,beverages
+1630,3/16/2021 21:00,shampoo,1,personal care
+1631,3/16/2021 21:00,paper towels,10,toileteries
+1632,3/16/2021 21:00,tilapia,3,meat
+1633,3/16/2021 21:00,soda,7,beverages
+1634,3/16/2021 21:00,paper towels,5,toileteries
+1635,3/16/2021 22:00,cupcakes,13,bakery
+1636,3/16/2021 23:00,toilet paper,4,toileteries
+1637,3/16/2021 23:00,beans,6,canned food
+1638,3/16/2021 23:00,dish soap,4,detergents
+1639,3/17/2021 8:00,laundry detergent,22,detergents
+1640,3/17/2021 9:00,tea,3,beverages
+1641,3/17/2021 9:00,paper towels,19,toileteries
+1642,3/17/2021 9:00,tilapia,13,meat
+1643,3/17/2021 9:00,shampoo,13,personal care
+1644,3/17/2021 9:00,beans,14,canned food
+1645,3/17/2021 10:00,cookies,3,bakery
+1646,3/17/2021 10:00,buns,29,bakery
+1647,3/17/2021 10:00,buns,7,bakery
+1648,3/17/2021 10:00,shampoo,13,personal care
+1649,3/17/2021 10:00,paper towels,18,toileteries
+1650,3/17/2021 10:00,tilapia,10,meat
+1651,3/17/2021 10:00,ketchup,2,canned food
+1652,3/17/2021 10:00,loaves,1,bakery
+1653,3/17/2021 10:00,toilet paper,4,toileteries
+1654,3/17/2021 11:00,beef,9,meat
+1655,3/17/2021 11:00,beans,4,canned food
+1656,3/17/2021 11:00,paper towels,10,toileteries
+1657,3/17/2021 11:00,soda,6,beverages
+1658,3/17/2021 11:00,cookies,2,bakery
+1659,3/17/2021 12:00,paper towels,1,toileteries
+1660,3/17/2021 12:00,laundry detergent,13,detergents
+1661,3/17/2021 12:00,cupcakes,8,bakery
+1662,3/17/2021 12:00,all purpose,19,detergents
+1663,3/17/2021 12:00,apples,23,fruits
+1664,3/17/2021 12:00,all purpose,18,detergents
+1665,3/17/2021 12:00,cupcakes,5,bakery
+1666,3/17/2021 12:00,beef,28,meat
+1667,3/17/2021 13:00,tilapia,12,meat
+1668,3/17/2021 13:00,beans,7,canned food
+1669,3/17/2021 13:00,shaving cream,18,personal care
+1670,3/17/2021 13:00,tea,1,beverages
+1671,3/17/2021 13:00,tea,4,beverages
+1672,3/17/2021 13:00,tea,4,beverages
+1673,3/17/2021 13:00,dish soap,15,detergents
+1674,3/17/2021 13:00,ketchup,28,canned food
+1675,3/17/2021 13:00,tea,4,beverages
+1676,3/17/2021 13:00,dish soap,6,detergents
+1677,3/17/2021 13:00,soda,11,beverages
+1678,3/17/2021 13:00,laundry detergent,8,detergents
+1679,3/17/2021 13:00,shaving cream,3,personal care
+1680,3/17/2021 13:00,oranges,16,fruits
+1681,3/17/2021 13:00,shampoo,19,personal care
+1682,3/17/2021 13:00,cupcakes,12,bakery
+1683,3/17/2021 13:00,hand soap,27,personal care
+1684,3/17/2021 14:00,beef,14,meat
+1685,3/17/2021 14:00,paper towels,4,toileteries
+1686,3/17/2021 14:00,bananas,26,fruits
+1687,3/17/2021 15:00,shampoo,8,personal care
+1688,3/17/2021 15:00,ketchup,15,canned food
+1689,3/17/2021 15:00,buns,19,bakery
+1690,3/17/2021 15:00,buns,3,bakery
+1691,3/17/2021 16:00,all purpose,9,detergents
+1692,3/17/2021 16:00,hand soap,28,personal care
+1693,3/17/2021 16:00,apples,3,fruits
+1694,3/17/2021 16:00,ketchup,23,canned food
+1695,3/17/2021 17:00,shaving cream,19,personal care
+1696,3/17/2021 17:00,shampoo,11,personal care
+1697,3/17/2021 17:00,toilet paper,29,toileteries
+1698,3/17/2021 17:00,tea,3,beverages
+1699,3/17/2021 17:00,hand soap,30,personal care
+1700,3/17/2021 17:00,loaves,4,bakery
+1701,3/17/2021 18:00,coffee,11,beverages
+1702,3/17/2021 18:00,toilet paper,21,toileteries
+1703,3/17/2021 18:00,shaving cream,1,personal care
+1704,3/17/2021 18:00,beef,15,meat
+1705,3/17/2021 18:00,cookies,1,bakery
+1706,3/17/2021 18:00,tea,2,beverages
+1707,3/17/2021 18:00,dish soap,20,detergents
+1708,3/17/2021 18:00,laundry detergent,19,detergents
+1709,3/17/2021 19:00,shaving cream,11,personal care
+1710,3/17/2021 19:00,bananas,17,fruits
+1711,3/17/2021 19:00,hand soap,23,personal care
+1712,3/17/2021 19:00,beans,10,canned food
+1713,3/17/2021 19:00,shampoo,4,personal care
+1714,3/17/2021 20:00,dish soap,23,detergents
+1715,3/17/2021 20:00,buns,6,bakery
+1716,3/17/2021 20:00,chicken,13,meat
+1717,3/17/2021 20:00,cupcakes,4,bakery
+1718,3/17/2021 20:00,buns,26,bakery
+1719,3/17/2021 21:00,tea,3,beverages
+1720,3/17/2021 21:00,cookies,3,bakery
+1721,3/17/2021 21:00,buns,13,bakery
+1722,3/17/2021 21:00,laundry detergent,17,detergents
+1723,3/17/2021 21:00,bananas,3,fruits
+1724,3/17/2021 22:00,apples,25,fruits
+1725,3/17/2021 22:00,laundry detergent,18,detergents
+1726,3/17/2021 22:00,shampoo,5,personal care
+1727,3/17/2021 22:00,shaving cream,18,personal care
+1728,3/18/2021 7:00,beef,21,meat
+1729,3/18/2021 8:00,ketchup,29,canned food
+1730,3/18/2021 8:00,cupcakes,4,bakery
+1731,3/18/2021 8:00,bananas,30,fruits
+1732,3/18/2021 8:00,cupcakes,7,bakery
+1733,3/18/2021 9:00,pork,17,meat
+1734,3/18/2021 9:00,shampoo,18,personal care
+1735,3/18/2021 9:00,beans,8,canned food
+1736,3/18/2021 9:00,chicken,14,meat
+1737,3/18/2021 10:00,cookies,2,bakery
+1738,3/18/2021 10:00,dish soap,30,detergents
+1739,3/18/2021 10:00,tilapia,10,meat
+1740,3/18/2021 10:00,beef,8,meat
+1741,3/18/2021 10:00,dish soap,10,detergents
+1742,3/18/2021 10:00,hand soap,11,personal care
+1743,3/18/2021 10:00,buns,3,bakery
+1744,3/18/2021 10:00,laundry detergent,1,detergents
+1745,3/18/2021 10:00,dish soap,28,detergents
+1746,3/18/2021 10:00,coffee,19,beverages
+1747,3/18/2021 11:00,loaves,5,bakery
+1748,3/18/2021 11:00,paper towels,3,toileteries
+1749,3/18/2021 11:00,tilapia,5,meat
+1750,3/18/2021 11:00,soda,6,beverages
+1751,3/18/2021 11:00,cupcakes,9,bakery
+1752,3/18/2021 11:00,soda,30,beverages
+1753,3/18/2021 12:00,bananas,19,fruits
+1754,3/18/2021 12:00,laundry detergent,12,detergents
+1755,3/18/2021 12:00,tilapia,7,meat
+1756,3/18/2021 12:00,cupcakes,1,bakery
+1757,3/18/2021 12:00,shaving cream,8,personal care
+1758,3/18/2021 12:00,beef,7,meat
+1759,3/18/2021 12:00,laundry detergent,9,detergents
+1760,3/18/2021 12:00,beef,9,meat
+1761,3/18/2021 12:00,oranges,15,fruits
+1762,3/18/2021 12:00,chicken,26,meat
+1763,3/18/2021 12:00,soda,14,beverages
+1764,3/18/2021 13:00,tea,3,beverages
+1765,3/18/2021 13:00,ketchup,23,canned food
+1766,3/18/2021 13:00,oranges,5,fruits
+1767,3/18/2021 13:00,buns,27,bakery
+1768,3/18/2021 13:00,hand soap,3,personal care
+1769,3/18/2021 13:00,tea,4,beverages
+1770,3/18/2021 13:00,shaving cream,30,personal care
+1771,3/18/2021 13:00,beef,30,meat
+1772,3/18/2021 13:00,hand soap,21,personal care
+1773,3/18/2021 14:00,coffee,6,beverages
+1774,3/18/2021 14:00,buns,30,bakery
+1775,3/18/2021 14:00,apples,4,fruits
+1776,3/18/2021 15:00,laundry detergent,19,detergents
+1777,3/18/2021 15:00,paper towels,1,toileteries
+1778,3/18/2021 15:00,soda,8,beverages
+1779,3/18/2021 15:00,coffee,11,beverages
+1780,3/18/2021 15:00,all purpose,29,detergents
+1781,3/18/2021 16:00,shaving cream,19,personal care
+1782,3/18/2021 16:00,beans,14,canned food
+1783,3/18/2021 16:00,oranges,13,fruits
+1784,3/18/2021 16:00,apples,24,fruits
+1785,3/18/2021 16:00,ketchup,29,canned food
+1786,3/18/2021 16:00,toilet paper,23,toileteries
+1787,3/18/2021 16:00,coffee,22,beverages
+1788,3/18/2021 17:00,pork,30,meat
+1789,3/18/2021 17:00,ketchup,24,canned food
+1790,3/18/2021 17:00,ketchup,12,canned food
+1791,3/18/2021 17:00,tea,4,beverages
+1792,3/18/2021 17:00,apples,8,fruits
+1793,3/18/2021 17:00,shaving cream,13,personal care
+1794,3/18/2021 17:00,buns,21,bakery
+1795,3/18/2021 17:00,tea,6,beverages
+1796,3/18/2021 17:00,all purpose,12,detergents
+1797,3/18/2021 17:00,shaving cream,30,personal care
+1798,3/18/2021 17:00,hand soap,1,personal care
+1799,3/18/2021 17:00,paper towels,10,toileteries
+1800,3/18/2021 17:00,apples,25,fruits
+1801,3/18/2021 17:00,ketchup,1,canned food
+1802,3/18/2021 17:00,hand soap,9,personal care
+1803,3/18/2021 17:00,buns,22,bakery
+1804,3/18/2021 17:00,buns,5,bakery
+1805,3/18/2021 17:00,hand soap,19,personal care
+1806,3/18/2021 18:00,paper towels,16,toileteries
+1807,3/18/2021 18:00,buns,17,bakery
+1808,3/18/2021 18:00,coffee,30,beverages
+1809,3/18/2021 18:00,loaves,4,bakery
+1810,3/18/2021 18:00,tea,3,beverages
+1811,3/18/2021 18:00,pork,17,meat
+1812,3/18/2021 18:00,bananas,20,fruits
+1813,3/18/2021 18:00,hand soap,30,personal care
+1814,3/18/2021 18:00,beans,13,canned food
+1815,3/18/2021 18:00,dish soap,1,detergents
+1816,3/18/2021 20:00,bananas,17,fruits
+1817,3/18/2021 20:00,oranges,19,fruits
+1818,3/18/2021 21:00,tea,2,beverages
+1819,3/18/2021 21:00,cookies,1,bakery
+1820,3/18/2021 21:00,loaves,4,bakery
+1821,3/18/2021 21:00,coffee,25,beverages
+1822,3/18/2021 21:00,all purpose,12,detergents
+1823,3/18/2021 22:00,oranges,23,fruits
+1824,3/18/2021 23:00,cupcakes,5,bakery
+1825,3/19/2021 7:00,buns,4,bakery
+1826,3/19/2021 7:00,beef,20,meat
+1827,3/19/2021 7:00,tea,5,beverages
+1828,3/19/2021 7:00,oranges,28,fruits
+1829,3/19/2021 8:00,coffee,28,beverages
+1830,3/19/2021 8:00,loaves,6,bakery
+1831,3/19/2021 8:00,apples,26,fruits
+1832,3/19/2021 8:00,apples,2,fruits
+1833,3/19/2021 8:00,laundry detergent,16,detergents
+1834,3/19/2021 9:00,toilet paper,16,toileteries
+1835,3/19/2021 9:00,oranges,28,fruits
+1836,3/19/2021 10:00,buns,19,bakery
+1837,3/19/2021 10:00,all purpose,24,detergents
+1838,3/19/2021 10:00,loaves,1,bakery
+1839,3/19/2021 10:00,coffee,17,beverages
+1840,3/19/2021 10:00,tea,4,beverages
+1841,3/19/2021 10:00,soda,30,beverages
+1842,3/19/2021 11:00,bananas,5,fruits
+1843,3/19/2021 11:00,shampoo,13,personal care
+1844,3/19/2021 11:00,beef,3,meat
+1845,3/19/2021 11:00,hand soap,16,personal care
+1846,3/19/2021 11:00,chicken,6,meat
+1847,3/19/2021 11:00,all purpose,14,detergents
+1848,3/19/2021 11:00,oranges,15,fruits
+1849,3/19/2021 11:00,bananas,3,fruits
+1850,3/19/2021 11:00,oranges,9,fruits
+1851,3/19/2021 12:00,pork,3,meat
+1852,3/19/2021 12:00,cupcakes,12,bakery
+1853,3/19/2021 12:00,shampoo,3,personal care
+1854,3/19/2021 12:00,shampoo,8,personal care
+1855,3/19/2021 12:00,buns,5,bakery
+1856,3/19/2021 12:00,coffee,29,beverages
+1857,3/19/2021 12:00,beans,9,canned food
+1858,3/19/2021 12:00,tea,6,beverages
+1859,3/19/2021 12:00,pork,23,meat
+1860,3/19/2021 12:00,shampoo,15,personal care
+1861,3/19/2021 12:00,shampoo,12,personal care
+1862,3/19/2021 13:00,apples,18,fruits
+1863,3/19/2021 13:00,all purpose,11,detergents
+1864,3/19/2021 13:00,tea,5,beverages
+1865,3/19/2021 13:00,bananas,8,fruits
+1866,3/19/2021 14:00,pork,9,meat
+1867,3/19/2021 14:00,cupcakes,8,bakery
+1868,3/19/2021 14:00,laundry detergent,19,detergents
+1869,3/19/2021 14:00,shampoo,5,personal care
+1870,3/19/2021 14:00,dish soap,2,detergents
+1871,3/19/2021 14:00,dish soap,15,detergents
+1872,3/19/2021 14:00,beef,24,meat
+1873,3/19/2021 15:00,ketchup,1,canned food
+1874,3/19/2021 15:00,laundry detergent,9,detergents
+1875,3/19/2021 15:00,paper towels,6,toileteries
+1876,3/19/2021 15:00,buns,12,bakery
+1877,3/19/2021 15:00,buns,3,bakery
+1878,3/19/2021 16:00,paper towels,11,toileteries
+1879,3/19/2021 16:00,loaves,10,bakery
+1880,3/19/2021 16:00,apples,14,fruits
+1881,3/19/2021 16:00,beans,13,canned food
+1882,3/19/2021 17:00,tilapia,11,meat
+1883,3/19/2021 17:00,soda,13,beverages
+1884,3/19/2021 17:00,loaves,9,bakery
+1885,3/19/2021 17:00,all purpose,17,detergents
+1886,3/19/2021 17:00,toilet paper,30,toileteries
+1887,3/19/2021 17:00,shampoo,15,personal care
+1888,3/19/2021 17:00,apples,30,fruits
+1889,3/19/2021 17:00,laundry detergent,13,detergents
+1890,3/19/2021 17:00,beef,26,meat
+1891,3/19/2021 17:00,pork,30,meat
+1892,3/19/2021 17:00,shaving cream,11,personal care
+1893,3/19/2021 17:00,coffee,21,beverages
+1894,3/19/2021 17:00,paper towels,7,toileteries
+1895,3/19/2021 18:00,loaves,2,bakery
+1896,3/19/2021 18:00,shampoo,16,personal care
+1897,3/19/2021 18:00,toilet paper,5,toileteries
+1898,3/19/2021 18:00,all purpose,30,detergents
+1899,3/19/2021 18:00,tea,4,beverages
+1900,3/19/2021 18:00,dish soap,4,detergents
+1901,3/19/2021 18:00,coffee,18,beverages
+1902,3/19/2021 18:00,paper towels,12,toileteries
+1903,3/19/2021 18:00,soda,4,beverages
+1904,3/19/2021 19:00,shaving cream,5,personal care
+1905,3/19/2021 19:00,cupcakes,9,bakery
+1906,3/19/2021 19:00,buns,28,bakery
+1907,3/19/2021 19:00,cookies,1,bakery
+1908,3/19/2021 19:00,chicken,26,meat
+1909,3/19/2021 19:00,ketchup,14,canned food
+1910,3/19/2021 19:00,tilapia,4,meat
+1911,3/19/2021 19:00,cookies,2,bakery
+1912,3/19/2021 19:00,cookies,4,bakery
+1913,3/19/2021 20:00,paper towels,11,toileteries
+1914,3/19/2021 20:00,cupcakes,12,bakery
+1915,3/19/2021 20:00,beans,4,canned food
+1916,3/19/2021 20:00,cookies,3,bakery
+1917,3/19/2021 21:00,shaving cream,12,personal care
+1918,3/19/2021 21:00,apples,23,fruits
+1919,3/19/2021 21:00,all purpose,24,detergents
+1920,3/19/2021 21:00,beef,22,meat
+1921,3/19/2021 21:00,all purpose,6,detergents
+1922,3/19/2021 21:00,chicken,11,meat
+1923,3/19/2021 21:00,hand soap,25,personal care
+1924,3/19/2021 22:00,cookies,1,bakery
+1925,3/19/2021 22:00,chicken,7,meat
+1926,3/19/2021 22:00,pork,29,meat
+1927,3/19/2021 22:00,cupcakes,10,bakery
+1928,3/19/2021 23:00,coffee,17,beverages
+1929,3/19/2021 23:00,beans,13,canned food
+1930,3/20/2021 8:00,tilapia,6,meat
+1931,3/20/2021 8:00,cupcakes,9,bakery
+1932,3/20/2021 8:00,laundry detergent,13,detergents
+1933,3/20/2021 8:00,beef,22,meat
+1934,3/20/2021 9:00,hand soap,27,personal care
+1935,3/20/2021 9:00,shaving cream,12,personal care
+1936,3/20/2021 10:00,cookies,1,bakery
+1937,3/20/2021 11:00,ketchup,14,canned food
+1938,3/20/2021 11:00,dish soap,3,detergents
+1939,3/20/2021 11:00,oranges,23,fruits
+1940,3/20/2021 11:00,paper towels,19,toileteries
+1941,3/20/2021 11:00,pork,20,meat
+1942,3/20/2021 11:00,beef,27,meat
+1943,3/20/2021 11:00,cookies,1,bakery
+1944,3/20/2021 11:00,beef,3,meat
+1945,3/20/2021 11:00,shaving cream,9,personal care
+1946,3/20/2021 12:00,paper towels,2,toileteries
+1947,3/20/2021 12:00,shampoo,6,personal care
+1948,3/20/2021 12:00,bananas,11,fruits
+1949,3/20/2021 12:00,cupcakes,11,bakery
+1950,3/20/2021 12:00,shaving cream,16,personal care
+1951,3/20/2021 12:00,toilet paper,20,toileteries
+1952,3/20/2021 12:00,beans,12,canned food
+1953,3/20/2021 12:00,chicken,1,meat
+1954,3/20/2021 13:00,all purpose,18,detergents
+1955,3/20/2021 13:00,oranges,15,fruits
+1956,3/20/2021 13:00,laundry detergent,22,detergents
+1957,3/20/2021 13:00,oranges,17,fruits
+1958,3/20/2021 13:00,beans,1,canned food
+1959,3/20/2021 13:00,shampoo,16,personal care
+1960,3/20/2021 13:00,hand soap,5,personal care
+1961,3/20/2021 13:00,tilapia,8,meat
+1962,3/20/2021 13:00,all purpose,29,detergents
+1963,3/20/2021 13:00,paper towels,15,toileteries
+1964,3/20/2021 13:00,shaving cream,15,personal care
+1965,3/20/2021 14:00,laundry detergent,7,detergents
+1966,3/20/2021 14:00,laundry detergent,22,detergents
+1967,3/20/2021 15:00,loaves,3,bakery
+1968,3/20/2021 15:00,tea,3,beverages
+1969,3/20/2021 15:00,soda,2,beverages
+1970,3/20/2021 15:00,bananas,17,fruits
+1971,3/20/2021 15:00,hand soap,1,personal care
+1972,3/20/2021 16:00,shaving cream,14,personal care
+1973,3/20/2021 16:00,soda,28,beverages
+1974,3/20/2021 16:00,tilapia,3,meat
+1975,3/20/2021 16:00,coffee,13,beverages
+1976,3/20/2021 17:00,shampoo,18,personal care
+1977,3/20/2021 17:00,hand soap,8,personal care
+1978,3/20/2021 17:00,paper towels,12,toileteries
+1979,3/20/2021 17:00,cookies,2,bakery
+1980,3/20/2021 17:00,bananas,14,fruits
+1981,3/20/2021 17:00,paper towels,16,toileteries
+1982,3/20/2021 17:00,shaving cream,14,personal care
+1983,3/20/2021 17:00,cookies,4,bakery
+1984,3/20/2021 17:00,oranges,12,fruits
+1985,3/20/2021 18:00,tilapia,5,meat
+1986,3/20/2021 18:00,toilet paper,1,toileteries
+1987,3/20/2021 18:00,tea,6,beverages
+1988,3/20/2021 18:00,bananas,11,fruits
+1989,3/20/2021 18:00,shaving cream,22,personal care
+1990,3/20/2021 18:00,apples,3,fruits
+1991,3/20/2021 18:00,laundry detergent,1,detergents
+1992,3/20/2021 18:00,tea,3,beverages
+1993,3/20/2021 18:00,bananas,12,fruits
+1994,3/20/2021 18:00,coffee,30,beverages
+1995,3/20/2021 18:00,oranges,20,fruits
+1996,3/20/2021 19:00,bananas,10,fruits
+1997,3/20/2021 19:00,bananas,28,fruits
+1998,3/20/2021 19:00,all purpose,26,detergents
+1999,3/20/2021 19:00,dish soap,16,detergents
+2000,3/20/2021 19:00,dish soap,5,detergents
+2001,3/20/2021 19:00,laundry detergent,11,detergents
+2002,3/20/2021 20:00,oranges,21,fruits
+2003,3/20/2021 20:00,dish soap,2,detergents
+2004,3/20/2021 20:00,shaving cream,9,personal care
+2005,3/20/2021 20:00,cookies,4,bakery
+2006,3/20/2021 20:00,laundry detergent,19,detergents
+2007,3/20/2021 21:00,cupcakes,7,bakery
+2008,3/20/2021 21:00,tilapia,8,meat
+2009,3/20/2021 21:00,all purpose,8,detergents
+2010,3/20/2021 21:00,cupcakes,7,bakery
+2011,3/20/2021 21:00,tea,4,beverages
+2012,3/20/2021 21:00,dish soap,14,detergents
+2013,3/20/2021 21:00,toilet paper,13,toileteries
+2014,3/20/2021 21:00,tea,6,beverages
+2015,3/20/2021 21:00,dish soap,24,detergents
+2016,3/20/2021 22:00,apples,24,fruits
+2017,3/20/2021 23:00,shaving cream,4,personal care
+2018,3/21/2021 8:00,loaves,9,bakery
+2019,3/21/2021 8:00,tilapia,13,meat
+2020,3/21/2021 8:00,beans,13,canned food
+2021,3/21/2021 8:00,dish soap,4,detergents
+2022,3/21/2021 9:00,bananas,28,fruits
+2023,3/21/2021 9:00,all purpose,14,detergents
+2024,3/21/2021 9:00,beans,8,canned food
+2025,3/21/2021 9:00,chicken,2,meat
+2026,3/21/2021 9:00,soda,29,beverages
+2027,3/21/2021 9:00,chicken,5,meat
+2028,3/21/2021 10:00,coffee,18,beverages
+2029,3/21/2021 10:00,all purpose,3,detergents
+2030,3/21/2021 10:00,chicken,29,meat
+2031,3/21/2021 10:00,oranges,1,fruits
+2032,3/21/2021 10:00,shampoo,2,personal care
+2033,3/21/2021 10:00,soda,13,beverages
+2034,3/21/2021 10:00,laundry detergent,21,detergents
+2035,3/21/2021 10:00,chicken,17,meat
+2036,3/21/2021 11:00,soda,27,beverages
+2037,3/21/2021 11:00,shampoo,16,personal care
+2038,3/21/2021 11:00,paper towels,6,toileteries
+2039,3/21/2021 11:00,all purpose,12,detergents
+2040,3/21/2021 11:00,beef,13,meat
+2041,3/21/2021 11:00,cupcakes,13,bakery
+2042,3/21/2021 11:00,chicken,2,meat
+2043,3/21/2021 11:00,shaving cream,22,personal care
+2044,3/21/2021 12:00,toilet paper,11,toileteries
+2045,3/21/2021 12:00,chicken,2,meat
+2046,3/21/2021 12:00,buns,30,bakery
+2047,3/21/2021 12:00,bananas,27,fruits
+2048,3/21/2021 13:00,toilet paper,30,toileteries
+2049,3/21/2021 13:00,bananas,19,fruits
+2050,3/21/2021 13:00,bananas,11,fruits
+2051,3/21/2021 13:00,hand soap,13,personal care
+2052,3/21/2021 13:00,bananas,27,fruits
+2053,3/21/2021 13:00,apples,6,fruits
+2054,3/21/2021 13:00,tea,1,beverages
+2055,3/21/2021 13:00,tea,2,beverages
+2056,3/21/2021 13:00,loaves,10,bakery
+2057,3/21/2021 14:00,beans,8,canned food
+2058,3/21/2021 14:00,paper towels,2,toileteries
+2059,3/21/2021 15:00,cupcakes,13,bakery
+2060,3/21/2021 15:00,pork,6,meat
+2061,3/21/2021 15:00,beans,4,canned food
+2062,3/21/2021 15:00,pork,7,meat
+2063,3/21/2021 16:00,shaving cream,7,personal care
+2064,3/21/2021 16:00,tea,6,beverages
+2065,3/21/2021 16:00,chicken,13,meat
+2066,3/21/2021 16:00,paper towels,19,toileteries
+2067,3/21/2021 16:00,laundry detergent,22,detergents
+2068,3/21/2021 16:00,ketchup,27,canned food
+2069,3/21/2021 17:00,beef,24,meat
+2070,3/21/2021 17:00,bananas,27,fruits
+2071,3/21/2021 17:00,tilapia,3,meat
+2072,3/21/2021 17:00,ketchup,8,canned food
+2073,3/21/2021 17:00,bananas,10,fruits
+2074,3/21/2021 17:00,oranges,12,fruits
+2075,3/21/2021 17:00,coffee,7,beverages
+2076,3/21/2021 18:00,beef,29,meat
+2077,3/21/2021 18:00,pork,18,meat
+2078,3/21/2021 18:00,coffee,30,beverages
+2079,3/21/2021 18:00,apples,4,fruits
+2080,3/21/2021 18:00,hand soap,5,personal care
+2081,3/21/2021 18:00,coffee,7,beverages
+2082,3/21/2021 18:00,tea,6,beverages
+2083,3/21/2021 18:00,cookies,4,bakery
+2084,3/21/2021 18:00,oranges,20,fruits
+2085,3/21/2021 18:00,cupcakes,11,bakery
+2086,3/21/2021 18:00,tea,3,beverages
+2087,3/21/2021 18:00,all purpose,4,detergents
+2088,3/21/2021 19:00,cookies,3,bakery
+2089,3/21/2021 19:00,chicken,27,meat
+2090,3/21/2021 19:00,shaving cream,23,personal care
+2091,3/21/2021 19:00,all purpose,18,detergents
+2092,3/21/2021 19:00,soda,22,beverages
+2093,3/21/2021 19:00,loaves,3,bakery
+2094,3/21/2021 20:00,beans,4,canned food
+2095,3/21/2021 20:00,cookies,4,bakery
+2096,3/21/2021 20:00,shampoo,9,personal care
+2097,3/21/2021 20:00,oranges,4,fruits
+2098,3/21/2021 20:00,beef,2,meat
+2099,3/21/2021 21:00,apples,2,fruits
+2100,3/21/2021 21:00,shampoo,16,personal care
+2101,3/21/2021 21:00,tilapia,13,meat
+2102,3/21/2021 21:00,dish soap,12,detergents
+2103,3/21/2021 23:00,shampoo,8,personal care
+2104,3/21/2021 23:00,tea,6,beverages
+2105,3/22/2021 8:00,tea,5,beverages
+2106,3/22/2021 8:00,coffee,21,beverages
+2107,3/22/2021 8:00,hand soap,3,personal care
+2108,3/22/2021 8:00,beef,23,meat
+2109,3/22/2021 8:00,soda,1,beverages
+2110,3/22/2021 8:00,laundry detergent,5,detergents
+2111,3/22/2021 9:00,beef,11,meat
+2112,3/22/2021 10:00,tea,2,beverages
+2113,3/22/2021 10:00,tea,6,beverages
+2114,3/22/2021 10:00,loaves,3,bakery
+2115,3/22/2021 10:00,chicken,12,meat
+2116,3/22/2021 10:00,ketchup,17,canned food
+2117,3/22/2021 10:00,bananas,12,fruits
+2118,3/22/2021 10:00,paper towels,1,toileteries
+2119,3/22/2021 10:00,pork,28,meat
+2120,3/22/2021 11:00,coffee,2,beverages
+2121,3/22/2021 11:00,shaving cream,19,personal care
+2122,3/22/2021 11:00,apples,23,fruits
+2123,3/22/2021 11:00,dish soap,3,detergents
+2124,3/22/2021 11:00,toilet paper,24,toileteries
+2125,3/22/2021 11:00,beans,4,canned food
+2126,3/22/2021 12:00,hand soap,20,personal care
+2127,3/22/2021 12:00,oranges,19,fruits
+2128,3/22/2021 12:00,bananas,30,fruits
+2129,3/22/2021 12:00,all purpose,20,detergents
+2130,3/22/2021 12:00,dish soap,9,detergents
+2131,3/22/2021 12:00,shampoo,18,personal care
+2132,3/22/2021 12:00,hand soap,23,personal care
+2133,3/22/2021 12:00,buns,10,bakery
+2134,3/22/2021 12:00,coffee,6,beverages
+2135,3/22/2021 12:00,bananas,14,fruits
+2136,3/22/2021 12:00,soda,21,beverages
+2137,3/22/2021 12:00,oranges,26,fruits
+2138,3/22/2021 12:00,cookies,2,bakery
+2139,3/22/2021 12:00,beef,25,meat
+2140,3/22/2021 13:00,apples,26,fruits
+2141,3/22/2021 13:00,chicken,28,meat
+2142,3/22/2021 13:00,cupcakes,6,bakery
+2143,3/22/2021 13:00,buns,23,bakery
+2144,3/22/2021 13:00,apples,11,fruits
+2145,3/22/2021 13:00,chicken,9,meat
+2146,3/22/2021 13:00,chicken,12,meat
+2147,3/22/2021 13:00,shampoo,18,personal care
+2148,3/22/2021 13:00,apples,29,fruits
+2149,3/22/2021 13:00,beef,13,meat
+2150,3/22/2021 13:00,beef,7,meat
+2151,3/22/2021 14:00,cookies,1,bakery
+2152,3/22/2021 14:00,tilapia,13,meat
+2153,3/22/2021 14:00,pork,3,meat
+2154,3/22/2021 15:00,oranges,13,fruits
+2155,3/22/2021 15:00,toilet paper,8,toileteries
+2156,3/22/2021 15:00,oranges,25,fruits
+2157,3/22/2021 15:00,hand soap,21,personal care
+2158,3/22/2021 16:00,apples,30,fruits
+2159,3/22/2021 16:00,cookies,2,bakery
+2160,3/22/2021 16:00,tilapia,7,meat
+2161,3/22/2021 16:00,dish soap,28,detergents
+2162,3/22/2021 17:00,shampoo,15,personal care
+2163,3/22/2021 17:00,shaving cream,29,personal care
+2164,3/22/2021 17:00,shampoo,20,personal care
+2165,3/22/2021 17:00,soda,18,beverages
+2166,3/22/2021 17:00,paper towels,4,toileteries
+2167,3/22/2021 17:00,all purpose,6,detergents
+2168,3/22/2021 17:00,shampoo,3,personal care
+2169,3/22/2021 17:00,coffee,18,beverages
+2170,3/22/2021 17:00,beef,16,meat
+2171,3/22/2021 18:00,apples,22,fruits
+2172,3/22/2021 18:00,paper towels,7,toileteries
+2173,3/22/2021 18:00,buns,6,bakery
+2174,3/22/2021 18:00,cupcakes,8,bakery
+2175,3/22/2021 18:00,apples,2,fruits
+2176,3/22/2021 18:00,pork,12,meat
+2177,3/22/2021 18:00,all purpose,7,detergents
+2178,3/22/2021 18:00,tea,1,beverages
+2179,3/22/2021 18:00,shampoo,8,personal care
+2180,3/22/2021 18:00,beans,8,canned food
+2181,3/22/2021 19:00,soda,15,beverages
+2182,3/22/2021 19:00,beans,6,canned food
+2183,3/22/2021 19:00,all purpose,24,detergents
+2184,3/22/2021 19:00,tilapia,9,meat
+2185,3/22/2021 19:00,paper towels,4,toileteries
+2186,3/22/2021 19:00,all purpose,11,detergents
+2187,3/22/2021 19:00,apples,19,fruits
+2188,3/22/2021 19:00,coffee,22,beverages
+2189,3/22/2021 19:00,soda,2,beverages
+2190,3/22/2021 19:00,cupcakes,5,bakery
+2191,3/22/2021 20:00,dish soap,16,detergents
+2192,3/22/2021 20:00,ketchup,1,canned food
+2193,3/22/2021 20:00,ketchup,22,canned food
+2194,3/22/2021 20:00,dish soap,27,detergents
+2195,3/22/2021 21:00,buns,18,bakery
+2196,3/22/2021 21:00,cupcakes,12,bakery
+2197,3/22/2021 22:00,soda,16,beverages
+2198,3/22/2021 22:00,laundry detergent,25,detergents
+2199,3/22/2021 23:00,oranges,20,fruits
+2200,3/22/2021 23:00,all purpose,25,detergents
+2201,3/23/2021 7:00,cookies,1,bakery
+2202,3/23/2021 8:00,loaves,9,bakery
+2203,3/23/2021 8:00,toilet paper,26,toileteries
+2204,3/23/2021 8:00,toilet paper,22,toileteries
+2205,3/23/2021 9:00,hand soap,12,personal care
+2206,3/23/2021 9:00,toilet paper,3,toileteries
+2207,3/23/2021 9:00,apples,28,fruits
+2208,3/23/2021 9:00,tea,3,beverages
+2209,3/23/2021 9:00,apples,27,fruits
+2210,3/23/2021 10:00,hand soap,9,personal care
+2211,3/23/2021 10:00,laundry detergent,11,detergents
+2212,3/23/2021 10:00,cookies,4,bakery
+2213,3/23/2021 10:00,oranges,15,fruits
+2214,3/23/2021 10:00,paper towels,8,toileteries
+2215,3/23/2021 10:00,oranges,18,fruits
+2216,3/23/2021 11:00,toilet paper,12,toileteries
+2217,3/23/2021 11:00,shampoo,1,personal care
+2218,3/23/2021 11:00,pork,19,meat
+2219,3/23/2021 11:00,toilet paper,23,toileteries
+2220,3/23/2021 11:00,cookies,3,bakery
+2221,3/23/2021 11:00,cupcakes,2,bakery
+2222,3/23/2021 11:00,apples,1,fruits
+2223,3/23/2021 12:00,shampoo,16,personal care
+2224,3/23/2021 12:00,shaving cream,14,personal care
+2225,3/23/2021 12:00,toilet paper,6,toileteries
+2226,3/23/2021 12:00,shaving cream,22,personal care
+2227,3/23/2021 12:00,chicken,15,meat
+2228,3/23/2021 12:00,bananas,7,fruits
+2229,3/23/2021 12:00,coffee,22,beverages
+2230,3/23/2021 12:00,all purpose,17,detergents
+2231,3/23/2021 12:00,chicken,12,meat
+2232,3/23/2021 13:00,hand soap,12,personal care
+2233,3/23/2021 13:00,coffee,27,beverages
+2234,3/23/2021 13:00,ketchup,20,canned food
+2235,3/23/2021 13:00,bananas,5,fruits
+2236,3/23/2021 13:00,shaving cream,12,personal care
+2237,3/23/2021 13:00,shampoo,6,personal care
+2238,3/23/2021 13:00,paper towels,2,toileteries
+2239,3/23/2021 13:00,apples,16,fruits
+2240,3/23/2021 14:00,all purpose,29,detergents
+2241,3/23/2021 14:00,beans,2,canned food
+2242,3/23/2021 14:00,paper towels,16,toileteries
+2243,3/23/2021 14:00,shampoo,12,personal care
+2244,3/23/2021 15:00,bananas,2,fruits
+2245,3/23/2021 15:00,paper towels,6,toileteries
+2246,3/23/2021 15:00,shaving cream,30,personal care
+2247,3/23/2021 15:00,tilapia,13,meat
+2248,3/23/2021 15:00,oranges,9,fruits
+2249,3/23/2021 16:00,cookies,3,bakery
+2250,3/23/2021 16:00,laundry detergent,20,detergents
+2251,3/23/2021 16:00,bananas,2,fruits
+2252,3/23/2021 16:00,coffee,27,beverages
+2253,3/23/2021 16:00,bananas,7,fruits
+2254,3/23/2021 16:00,beef,23,meat
+2255,3/23/2021 17:00,pork,13,meat
+2256,3/23/2021 17:00,loaves,3,bakery
+2257,3/23/2021 17:00,all purpose,2,detergents
+2258,3/23/2021 17:00,cookies,4,bakery
+2259,3/23/2021 17:00,hand soap,10,personal care
+2260,3/23/2021 17:00,dish soap,1,detergents
+2261,3/23/2021 17:00,soda,26,beverages
+2262,3/23/2021 17:00,dish soap,26,detergents
+2263,3/23/2021 17:00,apples,18,fruits
+2264,3/23/2021 17:00,soda,6,beverages
+2265,3/23/2021 17:00,laundry detergent,10,detergents
+2266,3/23/2021 17:00,dish soap,12,detergents
+2267,3/23/2021 17:00,apples,4,fruits
+2268,3/23/2021 17:00,dish soap,17,detergents
+2269,3/23/2021 18:00,laundry detergent,23,detergents
+2270,3/23/2021 18:00,beef,22,meat
+2271,3/23/2021 18:00,shampoo,8,personal care
+2272,3/23/2021 18:00,dish soap,11,detergents
+2273,3/23/2021 18:00,chicken,18,meat
+2274,3/23/2021 18:00,shampoo,10,personal care
+2275,3/23/2021 18:00,pork,5,meat
+2276,3/23/2021 18:00,soda,9,beverages
+2277,3/23/2021 18:00,loaves,1,bakery
+2278,3/23/2021 18:00,pork,3,meat
+2279,3/23/2021 18:00,dish soap,26,detergents
+2280,3/23/2021 18:00,oranges,24,fruits
+2281,3/23/2021 18:00,laundry detergent,23,detergents
+2282,3/23/2021 18:00,pork,6,meat
+2283,3/23/2021 18:00,beans,10,canned food
+2284,3/23/2021 19:00,tea,3,beverages
+2285,3/23/2021 19:00,chicken,21,meat
+2286,3/23/2021 19:00,apples,22,fruits
+2287,3/23/2021 19:00,bananas,28,fruits
+2288,3/23/2021 19:00,coffee,20,beverages
+2289,3/23/2021 19:00,paper towels,4,toileteries
+2290,3/23/2021 19:00,dish soap,18,detergents
+2291,3/23/2021 19:00,loaves,4,bakery
+2292,3/23/2021 20:00,tea,4,beverages
+2293,3/23/2021 20:00,paper towels,13,toileteries
+2294,3/23/2021 20:00,beans,1,canned food
+2295,3/23/2021 20:00,hand soap,6,personal care
+2296,3/23/2021 20:00,bananas,18,fruits
+2297,3/23/2021 20:00,ketchup,6,canned food
+2298,3/23/2021 21:00,buns,12,bakery
+2299,3/23/2021 21:00,hand soap,1,personal care
+2300,3/23/2021 21:00,ketchup,5,canned food
+2301,3/23/2021 21:00,coffee,30,beverages
+2302,3/23/2021 21:00,paper towels,19,toileteries
+2303,3/23/2021 22:00,cupcakes,4,bakery
+2304,3/23/2021 22:00,beef,14,meat
+2305,3/23/2021 22:00,cupcakes,13,bakery
+2306,3/23/2021 22:00,oranges,29,fruits
+2307,3/23/2021 22:00,chicken,7,meat
+2308,3/23/2021 22:00,oranges,26,fruits
+2309,3/23/2021 23:00,all purpose,1,detergents
+2310,3/23/2021 23:00,ketchup,29,canned food
+2311,3/24/2021 7:00,apples,20,fruits
+2312,3/24/2021 8:00,all purpose,6,detergents
+2313,3/24/2021 8:00,all purpose,19,detergents
+2314,3/24/2021 8:00,chicken,14,meat
+2315,3/24/2021 9:00,soda,28,beverages
+2316,3/24/2021 9:00,loaves,9,bakery
+2317,3/24/2021 10:00,beans,11,canned food
+2318,3/24/2021 10:00,hand soap,30,personal care
+2319,3/24/2021 10:00,toilet paper,29,toileteries
+2320,3/24/2021 10:00,hand soap,12,personal care
+2321,3/24/2021 10:00,tea,4,beverages
+2322,3/24/2021 11:00,bananas,6,fruits
+2323,3/24/2021 11:00,paper towels,13,toileteries
+2324,3/24/2021 11:00,toilet paper,17,toileteries
+2325,3/24/2021 11:00,apples,25,fruits
+2326,3/24/2021 11:00,beef,10,meat
+2327,3/24/2021 11:00,beef,13,meat
+2328,3/24/2021 11:00,beef,16,meat
+2329,3/24/2021 11:00,tilapia,5,meat
+2330,3/24/2021 11:00,cupcakes,12,bakery
+2331,3/24/2021 11:00,beef,28,meat
+2332,3/24/2021 11:00,coffee,23,beverages
+2333,3/24/2021 11:00,all purpose,12,detergents
+2334,3/24/2021 12:00,beans,1,canned food
+2335,3/24/2021 12:00,shampoo,16,personal care
+2336,3/24/2021 12:00,beans,2,canned food
+2337,3/24/2021 12:00,dish soap,1,detergents
+2338,3/24/2021 12:00,coffee,20,beverages
+2339,3/24/2021 12:00,tilapia,9,meat
+2340,3/24/2021 12:00,paper towels,15,toileteries
+2341,3/24/2021 12:00,cookies,1,bakery
+2342,3/24/2021 12:00,toilet paper,28,toileteries
+2343,3/24/2021 13:00,oranges,27,fruits
+2344,3/24/2021 13:00,hand soap,10,personal care
+2345,3/24/2021 13:00,cupcakes,8,bakery
+2346,3/24/2021 13:00,shampoo,19,personal care
+2347,3/24/2021 13:00,tea,3,beverages
+2348,3/24/2021 13:00,soda,21,beverages
+2349,3/24/2021 14:00,chicken,18,meat
+2350,3/24/2021 14:00,pork,25,meat
+2351,3/24/2021 15:00,ketchup,14,canned food
+2352,3/24/2021 15:00,tilapia,6,meat
+2353,3/24/2021 15:00,cookies,4,bakery
+2354,3/24/2021 15:00,paper towels,10,toileteries
+2355,3/24/2021 15:00,apples,27,fruits
+2356,3/24/2021 16:00,toilet paper,15,toileteries
+2357,3/24/2021 16:00,coffee,28,beverages
+2358,3/24/2021 16:00,apples,26,fruits
+2359,3/24/2021 16:00,buns,6,bakery
+2360,3/24/2021 16:00,tilapia,10,meat
+2361,3/24/2021 17:00,laundry detergent,12,detergents
+2362,3/24/2021 17:00,laundry detergent,2,detergents
+2363,3/24/2021 17:00,bananas,23,fruits
+2364,3/24/2021 17:00,cupcakes,13,bakery
+2365,3/24/2021 17:00,paper towels,6,toileteries
+2366,3/24/2021 17:00,oranges,1,fruits
+2367,3/24/2021 17:00,loaves,3,bakery
+2368,3/24/2021 17:00,chicken,19,meat
+2369,3/24/2021 17:00,oranges,18,fruits
+2370,3/24/2021 17:00,beans,14,canned food
+2371,3/24/2021 17:00,loaves,7,bakery
+2372,3/24/2021 17:00,pork,22,meat
+2373,3/24/2021 17:00,dish soap,28,detergents
+2374,3/24/2021 17:00,hand soap,26,personal care
+2375,3/24/2021 17:00,toilet paper,23,toileteries
+2376,3/24/2021 18:00,all purpose,27,detergents
+2377,3/24/2021 18:00,loaves,2,bakery
+2378,3/24/2021 18:00,tea,3,beverages
+2379,3/24/2021 18:00,coffee,6,beverages
+2380,3/24/2021 18:00,beans,8,canned food
+2381,3/24/2021 18:00,cupcakes,10,bakery
+2382,3/24/2021 18:00,coffee,5,beverages
+2383,3/24/2021 18:00,cookies,4,bakery
+2384,3/24/2021 18:00,pork,15,meat
+2385,3/24/2021 18:00,paper towels,13,toileteries
+2386,3/24/2021 18:00,tea,4,beverages
+2387,3/24/2021 19:00,laundry detergent,24,detergents
+2388,3/24/2021 19:00,pork,19,meat
+2389,3/24/2021 19:00,shaving cream,7,personal care
+2390,3/24/2021 19:00,beans,2,canned food
+2391,3/24/2021 19:00,hand soap,24,personal care
+2392,3/24/2021 19:00,chicken,13,meat
+2393,3/24/2021 19:00,beef,4,meat
+2394,3/24/2021 20:00,toilet paper,6,toileteries
+2395,3/24/2021 20:00,beans,10,canned food
+2396,3/24/2021 20:00,laundry detergent,8,detergents
+2397,3/24/2021 20:00,dish soap,17,detergents
+2398,3/24/2021 20:00,soda,12,beverages
+2399,3/24/2021 20:00,tea,6,beverages
+2400,3/24/2021 21:00,beef,12,meat
+2401,3/24/2021 21:00,tilapia,6,meat
+2402,3/24/2021 21:00,cookies,4,bakery
+2403,3/24/2021 22:00,cupcakes,8,bakery
+2404,3/24/2021 23:00,chicken,26,meat
+2405,3/24/2021 23:00,beans,7,canned food
+2406,3/25/2021 7:00,chicken,11,meat
+2407,3/25/2021 9:00,shampoo,5,personal care
+2408,3/25/2021 10:00,chicken,20,meat
+2409,3/25/2021 10:00,loaves,1,bakery
+2410,3/25/2021 10:00,oranges,28,fruits
+2411,3/25/2021 10:00,beef,8,meat
+2412,3/25/2021 10:00,tea,5,beverages
+2413,3/25/2021 10:00,soda,27,beverages
+2414,3/25/2021 11:00,chicken,29,meat
+2415,3/25/2021 11:00,cupcakes,10,bakery
+2416,3/25/2021 11:00,pork,17,meat
+2417,3/25/2021 11:00,beans,10,canned food
+2418,3/25/2021 11:00,all purpose,19,detergents
+2419,3/25/2021 11:00,all purpose,15,detergents
+2420,3/25/2021 11:00,cookies,2,bakery
+2421,3/25/2021 12:00,toilet paper,16,toileteries
+2422,3/25/2021 12:00,loaves,10,bakery
+2423,3/25/2021 12:00,cupcakes,3,bakery
+2424,3/25/2021 12:00,beef,6,meat
+2425,3/25/2021 12:00,hand soap,29,personal care
+2426,3/25/2021 12:00,beans,10,canned food
+2427,3/25/2021 12:00,shampoo,9,personal care
+2428,3/25/2021 12:00,all purpose,28,detergents
+2429,3/25/2021 12:00,soda,15,beverages
+2430,3/25/2021 12:00,tilapia,4,meat
+2431,3/25/2021 12:00,cupcakes,12,bakery
+2432,3/25/2021 13:00,cupcakes,3,bakery
+2433,3/25/2021 13:00,shaving cream,27,personal care
+2434,3/25/2021 13:00,all purpose,30,detergents
+2435,3/25/2021 13:00,beans,5,canned food
+2436,3/25/2021 13:00,beans,7,canned food
+2437,3/25/2021 13:00,hand soap,26,personal care
+2438,3/25/2021 13:00,shampoo,11,personal care
+2439,3/25/2021 13:00,beans,13,canned food
+2440,3/25/2021 13:00,oranges,17,fruits
+2441,3/25/2021 14:00,apples,11,fruits
+2442,3/25/2021 14:00,hand soap,29,personal care
+2443,3/25/2021 14:00,loaves,5,bakery
+2444,3/25/2021 14:00,tilapia,2,meat
+2445,3/25/2021 14:00,paper towels,1,toileteries
+2446,3/25/2021 15:00,coffee,3,beverages
+2447,3/25/2021 15:00,cookies,4,bakery
+2448,3/25/2021 15:00,tea,1,beverages
+2449,3/25/2021 16:00,coffee,30,beverages
+2450,3/25/2021 16:00,toilet paper,9,toileteries
+2451,3/25/2021 16:00,coffee,8,beverages
+2452,3/25/2021 16:00,laundry detergent,3,detergents
+2453,3/25/2021 17:00,ketchup,7,canned food
+2454,3/25/2021 17:00,beef,11,meat
+2455,3/25/2021 17:00,paper towels,6,toileteries
+2456,3/25/2021 17:00,loaves,6,bakery
+2457,3/25/2021 17:00,tilapia,11,meat
+2458,3/25/2021 17:00,laundry detergent,4,detergents
+2459,3/25/2021 17:00,all purpose,1,detergents
+2460,3/25/2021 17:00,apples,1,fruits
+2461,3/25/2021 17:00,dish soap,4,detergents
+2462,3/25/2021 17:00,beans,14,canned food
+2463,3/25/2021 17:00,beans,11,canned food
+2464,3/25/2021 18:00,shaving cream,21,personal care
+2465,3/25/2021 18:00,oranges,19,fruits
+2466,3/25/2021 18:00,buns,10,bakery
+2467,3/25/2021 18:00,laundry detergent,19,detergents
+2468,3/25/2021 18:00,loaves,5,bakery
+2469,3/25/2021 18:00,cookies,2,bakery
+2470,3/25/2021 18:00,hand soap,2,personal care
+2471,3/25/2021 18:00,all purpose,20,detergents
+2472,3/25/2021 18:00,cupcakes,1,bakery
+2473,3/25/2021 18:00,tea,5,beverages
+2474,3/25/2021 18:00,laundry detergent,12,detergents
+2475,3/25/2021 18:00,laundry detergent,5,detergents
+2476,3/25/2021 18:00,buns,19,bakery
+2477,3/25/2021 19:00,cookies,3,bakery
+2478,3/25/2021 19:00,soda,11,beverages
+2479,3/25/2021 19:00,cupcakes,10,bakery
+2480,3/25/2021 19:00,paper towels,13,toileteries
+2481,3/25/2021 19:00,beans,1,canned food
+2482,3/25/2021 19:00,apples,12,fruits
+2483,3/25/2021 19:00,beans,11,canned food
+2484,3/25/2021 20:00,chicken,16,meat
+2485,3/25/2021 20:00,shaving cream,1,personal care
+2486,3/25/2021 20:00,toilet paper,13,toileteries
+2487,3/25/2021 20:00,pork,2,meat
+2488,3/25/2021 20:00,paper towels,14,toileteries
+2489,3/25/2021 20:00,bananas,13,fruits
+2490,3/25/2021 20:00,toilet paper,28,toileteries
+2491,3/25/2021 21:00,all purpose,3,detergents
+2492,3/25/2021 21:00,paper towels,7,toileteries
+2493,3/25/2021 21:00,shaving cream,30,personal care
+2494,3/25/2021 21:00,shampoo,10,personal care
+2495,3/25/2021 21:00,beans,9,canned food
+2496,3/25/2021 21:00,ketchup,29,canned food
+2497,3/25/2021 22:00,oranges,9,fruits
+2498,3/25/2021 22:00,cookies,2,bakery
+2499,3/25/2021 23:00,hand soap,30,personal care
+2500,3/25/2021 23:00,buns,13,bakery
+2501,3/26/2021 7:00,tilapia,4,meat
+2502,3/26/2021 8:00,coffee,21,beverages
+2503,3/26/2021 8:00,hand soap,12,personal care
+2504,3/26/2021 8:00,cookies,3,bakery
+2505,3/26/2021 9:00,bananas,19,fruits
+2506,3/26/2021 9:00,tilapia,9,meat
+2507,3/26/2021 10:00,shampoo,2,personal care
+2508,3/26/2021 10:00,bananas,22,fruits
+2509,3/26/2021 10:00,hand soap,12,personal care
+2510,3/26/2021 10:00,apples,18,fruits
+2511,3/26/2021 10:00,chicken,16,meat
+2512,3/26/2021 10:00,tilapia,9,meat
+2513,3/26/2021 11:00,tilapia,4,meat
+2514,3/26/2021 11:00,ketchup,17,canned food
+2515,3/26/2021 11:00,coffee,12,beverages
+2516,3/26/2021 11:00,hand soap,17,personal care
+2517,3/26/2021 11:00,beef,2,meat
+2518,3/26/2021 11:00,loaves,9,bakery
+2519,3/26/2021 11:00,shampoo,17,personal care
+2520,3/26/2021 11:00,dish soap,23,detergents
+2521,3/26/2021 12:00,beans,10,canned food
+2522,3/26/2021 12:00,beef,10,meat
+2523,3/26/2021 12:00,oranges,12,fruits
+2524,3/26/2021 12:00,all purpose,15,detergents
+2525,3/26/2021 12:00,buns,11,bakery
+2526,3/26/2021 12:00,coffee,21,beverages
+2527,3/26/2021 12:00,tilapia,1,meat
+2528,3/26/2021 13:00,coffee,13,beverages
+2529,3/26/2021 13:00,cupcakes,5,bakery
+2530,3/26/2021 13:00,beef,25,meat
+2531,3/26/2021 13:00,apples,5,fruits
+2532,3/26/2021 13:00,bananas,30,fruits
+2533,3/26/2021 13:00,all purpose,15,detergents
+2534,3/26/2021 13:00,loaves,3,bakery
+2535,3/26/2021 14:00,dish soap,19,detergents
+2536,3/26/2021 14:00,pork,26,meat
+2537,3/26/2021 14:00,tea,1,beverages
+2538,3/26/2021 15:00,chicken,18,meat
+2539,3/26/2021 15:00,loaves,5,bakery
+2540,3/26/2021 15:00,all purpose,19,detergents
+2541,3/26/2021 15:00,shaving cream,21,personal care
+2542,3/26/2021 15:00,toilet paper,4,toileteries
+2543,3/26/2021 15:00,hand soap,6,personal care
+2544,3/26/2021 16:00,cookies,4,bakery
+2545,3/26/2021 16:00,ketchup,3,canned food
+2546,3/26/2021 16:00,dish soap,7,detergents
+2547,3/26/2021 16:00,oranges,9,fruits
+2548,3/26/2021 16:00,loaves,3,bakery
+2549,3/26/2021 16:00,beans,13,canned food
+2550,3/26/2021 17:00,cupcakes,10,bakery
+2551,3/26/2021 17:00,apples,10,fruits
+2552,3/26/2021 17:00,cookies,1,bakery
+2553,3/26/2021 17:00,beans,1,canned food
+2554,3/26/2021 17:00,dish soap,6,detergents
+2555,3/26/2021 17:00,chicken,1,meat
+2556,3/26/2021 17:00,oranges,20,fruits
+2557,3/26/2021 17:00,chicken,19,meat
+2558,3/26/2021 17:00,all purpose,25,detergents
+2559,3/26/2021 17:00,coffee,19,beverages
+2560,3/26/2021 17:00,chicken,6,meat
+2561,3/26/2021 17:00,ketchup,9,canned food
+2562,3/26/2021 18:00,all purpose,8,detergents
+2563,3/26/2021 18:00,soda,30,beverages
+2564,3/26/2021 18:00,soda,30,beverages
+2565,3/26/2021 18:00,tilapia,4,meat
+2566,3/26/2021 18:00,beans,9,canned food
+2567,3/26/2021 18:00,pork,7,meat
+2568,3/26/2021 18:00,chicken,22,meat
+2569,3/26/2021 18:00,all purpose,8,detergents
+2570,3/26/2021 18:00,chicken,12,meat
+2571,3/26/2021 18:00,shaving cream,8,personal care
+2572,3/26/2021 18:00,soda,4,beverages
+2573,3/26/2021 18:00,cookies,2,bakery
+2574,3/26/2021 19:00,coffee,27,beverages
+2575,3/26/2021 19:00,toilet paper,1,toileteries
+2576,3/26/2021 19:00,coffee,17,beverages
+2577,3/26/2021 19:00,toilet paper,9,toileteries
+2578,3/26/2021 19:00,shaving cream,8,personal care
+2579,3/26/2021 19:00,toilet paper,22,toileteries
+2580,3/26/2021 19:00,paper towels,19,toileteries
+2581,3/26/2021 19:00,apples,8,fruits
+2582,3/26/2021 19:00,buns,24,bakery
+2583,3/26/2021 20:00,tea,6,beverages
+2584,3/26/2021 20:00,apples,10,fruits
+2585,3/26/2021 21:00,buns,5,bakery
+2586,3/26/2021 21:00,loaves,8,bakery
+2587,3/26/2021 21:00,cupcakes,9,bakery
+2588,3/26/2021 21:00,pork,8,meat
+2589,3/26/2021 22:00,tea,4,beverages
+2590,3/26/2021 22:00,coffee,30,beverages
+2591,3/27/2021 8:00,toilet paper,21,toileteries
+2592,3/27/2021 8:00,tea,1,beverages
+2593,3/27/2021 8:00,cupcakes,5,bakery
+2594,3/27/2021 8:00,pork,30,meat
+2595,3/27/2021 9:00,apples,18,fruits
+2596,3/27/2021 9:00,apples,29,fruits
+2597,3/27/2021 9:00,oranges,15,fruits
+2598,3/27/2021 9:00,hand soap,23,personal care
+2599,3/27/2021 10:00,pork,3,meat
+2600,3/27/2021 10:00,tea,3,beverages
+2601,3/27/2021 10:00,bananas,26,fruits
+2602,3/27/2021 10:00,coffee,16,beverages
+2603,3/27/2021 10:00,tilapia,9,meat
+2604,3/27/2021 10:00,coffee,14,beverages
+2605,3/27/2021 10:00,shampoo,5,personal care
+2606,3/27/2021 10:00,tea,1,beverages
+2607,3/27/2021 11:00,ketchup,11,canned food
+2608,3/27/2021 11:00,buns,2,bakery
+2609,3/27/2021 11:00,soda,3,beverages
+2610,3/27/2021 11:00,shampoo,16,personal care
+2611,3/27/2021 11:00,dish soap,30,detergents
+2612,3/27/2021 11:00,hand soap,23,personal care
+2613,3/27/2021 11:00,hand soap,6,personal care
+2614,3/27/2021 11:00,pork,6,meat
+2615,3/27/2021 11:00,pork,23,meat
+2616,3/27/2021 11:00,beef,21,meat
+2617,3/27/2021 11:00,bananas,15,fruits
+2618,3/27/2021 11:00,tea,2,beverages
+2619,3/27/2021 11:00,coffee,28,beverages
+2620,3/27/2021 11:00,toilet paper,22,toileteries
+2621,3/27/2021 11:00,cookies,3,bakery
+2622,3/27/2021 12:00,pork,13,meat
+2623,3/27/2021 12:00,coffee,15,beverages
+2624,3/27/2021 12:00,oranges,10,fruits
+2625,3/27/2021 12:00,apples,4,fruits
+2626,3/27/2021 12:00,dish soap,28,detergents
+2627,3/27/2021 12:00,tea,2,beverages
+2628,3/27/2021 12:00,bananas,28,fruits
+2629,3/27/2021 12:00,pork,28,meat
+2630,3/27/2021 12:00,dish soap,28,detergents
+2631,3/27/2021 12:00,tilapia,1,meat
+2632,3/27/2021 12:00,oranges,24,fruits
+2633,3/27/2021 13:00,beef,7,meat
+2634,3/27/2021 13:00,apples,18,fruits
+2635,3/27/2021 13:00,chicken,17,meat
+2636,3/27/2021 13:00,loaves,3,bakery
+2637,3/27/2021 13:00,beef,14,meat
+2638,3/27/2021 14:00,cookies,1,bakery
+2639,3/27/2021 14:00,toilet paper,29,toileteries
+2640,3/27/2021 14:00,cookies,1,bakery
+2641,3/27/2021 14:00,tilapia,5,meat
+2642,3/27/2021 14:00,buns,9,bakery
+2643,3/27/2021 14:00,shaving cream,24,personal care
+2644,3/27/2021 14:00,tea,1,beverages
+2645,3/27/2021 15:00,soda,30,beverages
+2646,3/27/2021 15:00,shaving cream,29,personal care
+2647,3/27/2021 16:00,bananas,1,fruits
+2648,3/27/2021 16:00,shaving cream,2,personal care
+2649,3/27/2021 16:00,paper towels,12,toileteries
+2650,3/27/2021 16:00,bananas,25,fruits
+2651,3/27/2021 16:00,ketchup,11,canned food
+2652,3/27/2021 16:00,oranges,14,fruits
+2653,3/27/2021 16:00,apples,20,fruits
+2654,3/27/2021 16:00,oranges,15,fruits
+2655,3/27/2021 16:00,ketchup,8,canned food
+2656,3/27/2021 17:00,beans,1,canned food
+2657,3/27/2021 17:00,oranges,15,fruits
+2658,3/27/2021 17:00,cookies,1,bakery
+2659,3/27/2021 17:00,bananas,9,fruits
+2660,3/27/2021 17:00,tilapia,6,meat
+2661,3/27/2021 17:00,toilet paper,10,toileteries
+2662,3/27/2021 17:00,loaves,9,bakery
+2663,3/27/2021 17:00,paper towels,12,toileteries
+2664,3/27/2021 17:00,ketchup,15,canned food
+2665,3/27/2021 17:00,soda,10,beverages
+2666,3/27/2021 17:00,coffee,23,beverages
+2667,3/27/2021 17:00,buns,2,bakery
+2668,3/27/2021 18:00,toilet paper,12,toileteries
+2669,3/27/2021 18:00,cupcakes,5,bakery
+2670,3/27/2021 18:00,bananas,30,fruits
+2671,3/27/2021 18:00,pork,24,meat
+2672,3/27/2021 18:00,coffee,16,beverages
+2673,3/27/2021 18:00,all purpose,2,detergents
+2674,3/27/2021 18:00,hand soap,5,personal care
+2675,3/27/2021 18:00,oranges,2,fruits
+2676,3/27/2021 18:00,paper towels,2,toileteries
+2677,3/27/2021 18:00,oranges,3,fruits
+2678,3/27/2021 18:00,coffee,4,beverages
+2679,3/27/2021 19:00,ketchup,26,canned food
+2680,3/27/2021 19:00,oranges,10,fruits
+2681,3/27/2021 19:00,all purpose,28,detergents
+2682,3/27/2021 19:00,pork,4,meat
+2683,3/27/2021 19:00,all purpose,26,detergents
+2684,3/27/2021 19:00,paper towels,16,toileteries
+2685,3/27/2021 20:00,hand soap,26,personal care
+2686,3/27/2021 20:00,buns,20,bakery
+2687,3/27/2021 20:00,toilet paper,5,toileteries
+2688,3/27/2021 21:00,beef,19,meat
+2689,3/27/2021 21:00,laundry detergent,13,detergents
+2690,3/27/2021 21:00,paper towels,16,toileteries
+2691,3/27/2021 21:00,ketchup,2,canned food
+2692,3/27/2021 21:00,tilapia,5,meat
+2693,3/27/2021 21:00,tea,2,beverages
+2694,3/27/2021 21:00,oranges,7,fruits
+2695,3/27/2021 22:00,ketchup,29,canned food
+2696,3/27/2021 22:00,beef,22,meat
+2697,3/27/2021 22:00,toilet paper,21,toileteries
+2698,3/27/2021 22:00,cookies,1,bakery
+2699,3/27/2021 22:00,coffee,14,beverages
+2700,3/27/2021 23:00,hand soap,25,personal care
+2701,3/28/2021 8:00,dish soap,11,detergents
+2702,3/28/2021 8:00,all purpose,21,detergents
+2703,3/28/2021 8:00,hand soap,27,personal care
+2704,3/28/2021 9:00,apples,12,fruits
+2705,3/28/2021 9:00,ketchup,25,canned food
+2706,3/28/2021 10:00,all purpose,5,detergents
+2707,3/28/2021 10:00,shampoo,16,personal care
+2708,3/28/2021 10:00,loaves,5,bakery
+2709,3/28/2021 10:00,hand soap,6,personal care
+2710,3/28/2021 10:00,all purpose,8,detergents
+2711,3/28/2021 10:00,beef,3,meat
+2712,3/28/2021 11:00,loaves,9,bakery
+2713,3/28/2021 11:00,laundry detergent,22,detergents
+2714,3/28/2021 11:00,dish soap,22,detergents
+2715,3/28/2021 11:00,toilet paper,28,toileteries
+2716,3/28/2021 11:00,cookies,3,bakery
+2717,3/28/2021 11:00,soda,16,beverages
+2718,3/28/2021 11:00,paper towels,19,toileteries
+2719,3/28/2021 11:00,all purpose,6,detergents
+2720,3/28/2021 11:00,loaves,10,bakery
+2721,3/28/2021 11:00,oranges,29,fruits
+2722,3/28/2021 11:00,pork,12,meat
+2723,3/28/2021 11:00,shaving cream,11,personal care
+2724,3/28/2021 11:00,paper towels,9,toileteries
+2725,3/28/2021 12:00,paper towels,4,toileteries
+2726,3/28/2021 12:00,beans,8,canned food
+2727,3/28/2021 12:00,soda,3,beverages
+2728,3/28/2021 12:00,laundry detergent,23,detergents
+2729,3/28/2021 12:00,all purpose,18,detergents
+2730,3/28/2021 12:00,beef,11,meat
+2731,3/28/2021 13:00,beans,8,canned food
+2732,3/28/2021 13:00,loaves,2,bakery
+2733,3/28/2021 13:00,chicken,19,meat
+2734,3/28/2021 13:00,pork,4,meat
+2735,3/28/2021 13:00,shaving cream,12,personal care
+2736,3/28/2021 13:00,bananas,27,fruits
+2737,3/28/2021 13:00,tea,4,beverages
+2738,3/28/2021 13:00,bananas,7,fruits
+2739,3/28/2021 13:00,paper towels,17,toileteries
+2740,3/28/2021 14:00,pork,26,meat
+2741,3/28/2021 14:00,hand soap,4,personal care
+2742,3/28/2021 14:00,coffee,7,beverages
+2743,3/28/2021 15:00,buns,7,bakery
+2744,3/28/2021 15:00,ketchup,15,canned food
+2745,3/28/2021 16:00,oranges,2,fruits
+2746,3/28/2021 17:00,soda,18,beverages
+2747,3/28/2021 17:00,apples,19,fruits
+2748,3/28/2021 17:00,tea,2,beverages
+2749,3/28/2021 17:00,loaves,9,bakery
+2750,3/28/2021 17:00,cookies,2,bakery
+2751,3/28/2021 17:00,cookies,2,bakery
+2752,3/28/2021 17:00,paper towels,11,toileteries
+2753,3/28/2021 17:00,chicken,4,meat
+2754,3/28/2021 17:00,toilet paper,29,toileteries
+2755,3/28/2021 17:00,paper towels,12,toileteries
+2756,3/28/2021 17:00,buns,20,bakery
+2757,3/28/2021 17:00,all purpose,8,detergents
+2758,3/28/2021 18:00,tilapia,9,meat
+2759,3/28/2021 18:00,beef,5,meat
+2760,3/28/2021 18:00,laundry detergent,12,detergents
+2761,3/28/2021 18:00,hand soap,13,personal care
+2762,3/28/2021 18:00,beef,20,meat
+2763,3/28/2021 18:00,paper towels,1,toileteries
+2764,3/28/2021 18:00,tilapia,2,meat
+2765,3/28/2021 18:00,soda,5,beverages
+2766,3/28/2021 18:00,coffee,17,beverages
+2767,3/28/2021 18:00,oranges,24,fruits
+2768,3/28/2021 18:00,beans,6,canned food
+2769,3/28/2021 18:00,pork,21,meat
+2770,3/28/2021 18:00,oranges,11,fruits
+2771,3/28/2021 19:00,pork,14,meat
+2772,3/28/2021 19:00,cupcakes,7,bakery
+2773,3/28/2021 19:00,laundry detergent,16,detergents
+2774,3/28/2021 19:00,bananas,8,fruits
+2775,3/28/2021 19:00,chicken,4,meat
+2776,3/28/2021 19:00,chicken,5,meat
+2777,3/28/2021 19:00,soda,14,beverages
+2778,3/28/2021 20:00,loaves,1,bakery
+2779,3/28/2021 20:00,pork,10,meat
+2780,3/28/2021 20:00,tea,1,beverages
+2781,3/28/2021 20:00,dish soap,2,detergents
+2782,3/28/2021 20:00,beef,30,meat
+2783,3/28/2021 20:00,all purpose,18,detergents
+2784,3/28/2021 20:00,coffee,19,beverages
+2785,3/28/2021 21:00,shampoo,10,personal care
+2786,3/28/2021 21:00,loaves,3,bakery
+2787,3/28/2021 21:00,coffee,12,beverages
+2788,3/28/2021 21:00,tilapia,8,meat
+2789,3/28/2021 21:00,buns,13,bakery
+2790,3/28/2021 23:00,all purpose,28,detergents
+2791,3/29/2021 7:00,tea,6,beverages
+2792,3/29/2021 7:00,shaving cream,24,personal care
+2793,3/29/2021 7:00,beef,30,meat
+2794,3/29/2021 7:00,toilet paper,10,toileteries
+2795,3/29/2021 8:00,oranges,17,fruits
+2796,3/29/2021 8:00,pork,2,meat
+2797,3/29/2021 9:00,oranges,4,fruits
+2798,3/29/2021 9:00,coffee,7,beverages
+2799,3/29/2021 10:00,beans,8,canned food
+2800,3/29/2021 10:00,laundry detergent,6,detergents
+2801,3/29/2021 10:00,shampoo,5,personal care
+2802,3/29/2021 10:00,pork,9,meat
+2803,3/29/2021 10:00,toilet paper,9,toileteries
+2804,3/29/2021 10:00,hand soap,5,personal care
+2805,3/29/2021 10:00,apples,12,fruits
+2806,3/29/2021 10:00,apples,3,fruits
+2807,3/29/2021 10:00,loaves,9,bakery
+2808,3/29/2021 10:00,tilapia,7,meat
+2809,3/29/2021 11:00,dish soap,1,detergents
+2810,3/29/2021 11:00,oranges,8,fruits
+2811,3/29/2021 11:00,toilet paper,29,toileteries
+2812,3/29/2021 11:00,dish soap,23,detergents
+2813,3/29/2021 11:00,laundry detergent,8,detergents
+2814,3/29/2021 11:00,tilapia,1,meat
+2815,3/29/2021 11:00,tea,4,beverages
+2816,3/29/2021 11:00,beans,1,canned food
+2817,3/29/2021 11:00,shampoo,7,personal care
+2818,3/29/2021 12:00,laundry detergent,4,detergents
+2819,3/29/2021 12:00,loaves,8,bakery
+2820,3/29/2021 12:00,cookies,4,bakery
+2821,3/29/2021 12:00,hand soap,30,personal care
+2822,3/29/2021 12:00,toilet paper,5,toileteries
+2823,3/29/2021 12:00,shaving cream,26,personal care
+2824,3/29/2021 12:00,cookies,1,bakery
+2825,3/29/2021 12:00,all purpose,5,detergents
+2826,3/29/2021 12:00,shampoo,10,personal care
+2827,3/29/2021 13:00,tea,1,beverages
+2828,3/29/2021 13:00,apples,22,fruits
+2829,3/29/2021 13:00,coffee,6,beverages
+2830,3/29/2021 13:00,loaves,10,bakery
+2831,3/29/2021 13:00,paper towels,7,toileteries
+2832,3/29/2021 13:00,laundry detergent,25,detergents
+2833,3/29/2021 13:00,beans,14,canned food
+2834,3/29/2021 13:00,laundry detergent,1,detergents
+2835,3/29/2021 13:00,dish soap,18,detergents
+2836,3/29/2021 13:00,loaves,1,bakery
+2837,3/29/2021 13:00,toilet paper,5,toileteries
+2838,3/29/2021 13:00,tea,3,beverages
+2839,3/29/2021 13:00,beans,5,canned food
+2840,3/29/2021 13:00,tea,1,beverages
+2841,3/29/2021 14:00,shampoo,18,personal care
+2842,3/29/2021 14:00,apples,13,fruits
+2843,3/29/2021 14:00,beef,20,meat
+2844,3/29/2021 15:00,tea,3,beverages
+2845,3/29/2021 15:00,shampoo,14,personal care
+2846,3/29/2021 15:00,beans,8,canned food
+2847,3/29/2021 15:00,ketchup,11,canned food
+2848,3/29/2021 15:00,toilet paper,26,toileteries
+2849,3/29/2021 16:00,oranges,21,fruits
+2850,3/29/2021 16:00,loaves,4,bakery
+2851,3/29/2021 16:00,bananas,12,fruits
+2852,3/29/2021 17:00,apples,11,fruits
+2853,3/29/2021 17:00,pork,19,meat
+2854,3/29/2021 17:00,buns,21,bakery
+2855,3/29/2021 17:00,tilapia,5,meat
+2856,3/29/2021 17:00,coffee,3,beverages
+2857,3/29/2021 17:00,oranges,7,fruits
+2858,3/29/2021 17:00,beans,3,canned food
+2859,3/29/2021 17:00,ketchup,4,canned food
+2860,3/29/2021 17:00,ketchup,14,canned food
+2861,3/29/2021 17:00,hand soap,29,personal care
+2862,3/29/2021 17:00,all purpose,27,detergents
+2863,3/29/2021 17:00,cupcakes,1,bakery
+2864,3/29/2021 17:00,ketchup,19,canned food
+2865,3/29/2021 17:00,cupcakes,9,bakery
+2866,3/29/2021 17:00,chicken,18,meat
+2867,3/29/2021 18:00,dish soap,7,detergents
+2868,3/29/2021 18:00,loaves,10,bakery
+2869,3/29/2021 18:00,toilet paper,30,toileteries
+2870,3/29/2021 18:00,shampoo,7,personal care
+2871,3/29/2021 18:00,chicken,22,meat
+2872,3/29/2021 18:00,cupcakes,7,bakery
+2873,3/29/2021 18:00,beef,1,meat
+2874,3/29/2021 18:00,beef,23,meat
+2875,3/29/2021 18:00,beans,1,canned food
+2876,3/29/2021 18:00,beef,5,meat
+2877,3/29/2021 18:00,toilet paper,5,toileteries
+2878,3/29/2021 18:00,paper towels,17,toileteries
+2879,3/29/2021 19:00,tilapia,10,meat
+2880,3/29/2021 19:00,loaves,6,bakery
+2881,3/29/2021 19:00,paper towels,15,toileteries
+2882,3/29/2021 19:00,laundry detergent,14,detergents
+2883,3/29/2021 19:00,dish soap,2,detergents
+2884,3/29/2021 19:00,pork,23,meat
+2885,3/29/2021 19:00,tea,3,beverages
+2886,3/29/2021 19:00,pork,9,meat
+2887,3/29/2021 19:00,all purpose,18,detergents
+2888,3/29/2021 19:00,beef,9,meat
+2889,3/29/2021 19:00,apples,30,fruits
+2890,3/29/2021 19:00,all purpose,18,detergents
+2891,3/29/2021 19:00,bananas,21,fruits
+2892,3/29/2021 20:00,laundry detergent,22,detergents
+2893,3/29/2021 20:00,paper towels,2,toileteries
+2894,3/29/2021 20:00,tea,2,beverages
+2895,3/29/2021 20:00,beef,4,meat
+2896,3/29/2021 20:00,shaving cream,6,personal care
+2897,3/29/2021 20:00,bananas,20,fruits
+2898,3/29/2021 21:00,loaves,2,bakery
+2899,3/29/2021 21:00,coffee,7,beverages
+2900,3/29/2021 21:00,loaves,10,bakery
+2901,3/29/2021 21:00,oranges,2,fruits
+2902,3/29/2021 21:00,tilapia,3,meat
+2903,3/29/2021 21:00,soda,13,beverages
+2904,3/29/2021 22:00,coffee,1,beverages
+2905,3/29/2021 22:00,buns,10,bakery
+2906,3/29/2021 23:00,tilapia,10,meat
+2907,3/29/2021 23:00,all purpose,17,detergents
+2908,3/29/2021 23:00,buns,7,bakery
+2909,3/29/2021 23:00,laundry detergent,23,detergents
+2910,3/30/2021 8:00,loaves,2,bakery
+2911,3/30/2021 8:00,tea,1,beverages
+2912,3/30/2021 9:00,pork,18,meat
+2913,3/30/2021 9:00,buns,9,bakery
+2914,3/30/2021 9:00,oranges,16,fruits
+2915,3/30/2021 9:00,loaves,4,bakery
+2916,3/30/2021 10:00,tea,5,beverages
+2917,3/30/2021 10:00,tilapia,9,meat
+2918,3/30/2021 10:00,oranges,28,fruits
+2919,3/30/2021 10:00,ketchup,27,canned food
+2920,3/30/2021 10:00,laundry detergent,1,detergents
+2921,3/30/2021 11:00,paper towels,2,toileteries
+2922,3/30/2021 11:00,beef,9,meat
+2923,3/30/2021 11:00,all purpose,20,detergents
+2924,3/30/2021 11:00,beans,10,canned food
+2925,3/30/2021 11:00,ketchup,9,canned food
+2926,3/30/2021 11:00,cookies,3,bakery
+2927,3/30/2021 11:00,ketchup,29,canned food
+2928,3/30/2021 11:00,apples,2,fruits
+2929,3/30/2021 11:00,tilapia,12,meat
+2930,3/30/2021 12:00,pork,7,meat
+2931,3/30/2021 12:00,chicken,20,meat
+2932,3/30/2021 12:00,coffee,23,beverages
+2933,3/30/2021 12:00,shampoo,8,personal care
+2934,3/30/2021 12:00,buns,17,bakery
+2935,3/30/2021 12:00,tilapia,4,meat
+2936,3/30/2021 12:00,tea,2,beverages
+2937,3/30/2021 13:00,dish soap,21,detergents
+2938,3/30/2021 13:00,loaves,9,bakery
+2939,3/30/2021 13:00,hand soap,25,personal care
+2940,3/30/2021 13:00,toilet paper,28,toileteries
+2941,3/30/2021 13:00,pork,9,meat
+2942,3/30/2021 13:00,cookies,1,bakery
+2943,3/30/2021 13:00,shampoo,4,personal care
+2944,3/30/2021 13:00,tea,2,beverages
+2945,3/30/2021 13:00,pork,11,meat
+2946,3/30/2021 13:00,chicken,25,meat
+2947,3/30/2021 14:00,cupcakes,11,bakery
+2948,3/30/2021 14:00,apples,7,fruits
+2949,3/30/2021 14:00,dish soap,13,detergents
+2950,3/30/2021 14:00,tea,5,beverages
+2951,3/30/2021 14:00,cupcakes,7,bakery
+2952,3/30/2021 15:00,laundry detergent,3,detergents
+2953,3/30/2021 15:00,coffee,26,beverages
+2954,3/30/2021 15:00,beans,1,canned food
+2955,3/30/2021 15:00,toilet paper,26,toileteries
+2956,3/30/2021 15:00,toilet paper,10,toileteries
+2957,3/30/2021 15:00,toilet paper,8,toileteries
+2958,3/30/2021 15:00,tilapia,3,meat
+2959,3/30/2021 15:00,pork,12,meat
+2960,3/30/2021 16:00,tilapia,6,meat
+2961,3/30/2021 16:00,hand soap,10,personal care
+2962,3/30/2021 16:00,toilet paper,28,toileteries
+2963,3/30/2021 16:00,soda,27,beverages
+2964,3/30/2021 16:00,beans,6,canned food
+2965,3/30/2021 17:00,beans,5,canned food
+2966,3/30/2021 17:00,laundry detergent,19,detergents
+2967,3/30/2021 17:00,coffee,12,beverages
+2968,3/30/2021 17:00,laundry detergent,3,detergents
+2969,3/30/2021 17:00,beans,12,canned food
+2970,3/30/2021 17:00,hand soap,12,personal care
+2971,3/30/2021 17:00,shampoo,2,personal care
+2972,3/30/2021 17:00,paper towels,17,toileteries
+2973,3/30/2021 17:00,oranges,4,fruits
+2974,3/30/2021 17:00,beef,21,meat
+2975,3/30/2021 18:00,tea,3,beverages
+2976,3/30/2021 18:00,tilapia,3,meat
+2977,3/30/2021 18:00,paper towels,11,toileteries
+2978,3/30/2021 18:00,ketchup,26,canned food
+2979,3/30/2021 18:00,toilet paper,22,toileteries
+2980,3/30/2021 18:00,cupcakes,13,bakery
+2981,3/30/2021 18:00,chicken,25,meat
+2982,3/30/2021 18:00,laundry detergent,9,detergents
+2983,3/30/2021 18:00,buns,1,bakery
+2984,3/30/2021 18:00,soda,16,beverages
+2985,3/30/2021 18:00,chicken,15,meat
+2986,3/30/2021 18:00,buns,30,bakery
+2987,3/30/2021 18:00,hand soap,7,personal care
+2988,3/30/2021 18:00,coffee,26,beverages
+2989,3/30/2021 19:00,bananas,25,fruits
+2990,3/30/2021 19:00,laundry detergent,17,detergents
+2991,3/30/2021 19:00,tilapia,13,meat
+2992,3/30/2021 19:00,tea,2,beverages
+2993,3/30/2021 19:00,shampoo,16,personal care
+2994,3/30/2021 19:00,chicken,7,meat
+2995,3/30/2021 19:00,tilapia,6,meat
+2996,3/30/2021 19:00,chicken,11,meat
+2997,3/30/2021 19:00,paper towels,8,toileteries
+2998,3/30/2021 19:00,paper towels,3,toileteries
+2999,3/30/2021 19:00,dish soap,18,detergents
+3000,3/30/2021 20:00,soda,16,beverages
+3001,3/30/2021 20:00,beans,3,canned food
+3002,3/30/2021 20:00,loaves,1,bakery
+3003,3/30/2021 20:00,tilapia,6,meat
+3004,3/30/2021 20:00,buns,11,bakery
+3005,3/30/2021 20:00,loaves,9,bakery
+3006,3/30/2021 20:00,paper towels,12,toileteries
+3007,3/30/2021 21:00,tilapia,1,meat
+3008,3/30/2021 21:00,all purpose,7,detergents
+3009,3/30/2021 21:00,beef,1,meat
+3010,3/30/2021 21:00,tilapia,12,meat
+3011,3/30/2021 21:00,pork,17,meat
+3012,3/30/2021 23:00,apples,13,fruits
+3013,3/31/2021 7:00,beef,5,meat
+3014,3/31/2021 8:00,buns,26,bakery
+3015,3/31/2021 8:00,beef,9,meat
+3016,3/31/2021 8:00,beef,11,meat
+3017,3/31/2021 9:00,tea,6,beverages
+3018,3/31/2021 9:00,shaving cream,24,personal care
+3019,3/31/2021 9:00,beans,2,canned food
+3020,3/31/2021 9:00,apples,27,fruits
+3021,3/31/2021 9:00,ketchup,15,canned food
+3022,3/31/2021 9:00,paper towels,15,toileteries
+3023,3/31/2021 9:00,dish soap,30,detergents
+3024,3/31/2021 10:00,tilapia,9,meat
+3025,3/31/2021 10:00,tea,5,beverages
+3026,3/31/2021 10:00,apples,12,fruits
+3027,3/31/2021 11:00,laundry detergent,23,detergents
+3028,3/31/2021 11:00,laundry detergent,20,detergents
+3029,3/31/2021 11:00,cupcakes,9,bakery
+3030,3/31/2021 11:00,beans,10,canned food
+3031,3/31/2021 11:00,soda,4,beverages
+3032,3/31/2021 11:00,tea,3,beverages
+3033,3/31/2021 11:00,chicken,21,meat
+3034,3/31/2021 11:00,buns,19,bakery
+3035,3/31/2021 11:00,beans,2,canned food
+3036,3/31/2021 11:00,cookies,2,bakery
+3037,3/31/2021 11:00,coffee,19,beverages
+3038,3/31/2021 11:00,ketchup,8,canned food
+3039,3/31/2021 11:00,oranges,26,fruits
+3040,3/31/2021 12:00,tea,3,beverages
+3041,3/31/2021 12:00,beef,16,meat
+3042,3/31/2021 12:00,toilet paper,25,toileteries
+3043,3/31/2021 12:00,buns,13,bakery
+3044,3/31/2021 12:00,chicken,5,meat
+3045,3/31/2021 12:00,paper towels,17,toileteries
+3046,3/31/2021 12:00,pork,8,meat
+3047,3/31/2021 12:00,ketchup,14,canned food
+3048,3/31/2021 12:00,pork,13,meat
+3049,3/31/2021 13:00,oranges,13,fruits
+3050,3/31/2021 13:00,tilapia,7,meat
+3051,3/31/2021 13:00,bananas,21,fruits
+3052,3/31/2021 13:00,ketchup,27,canned food
+3053,3/31/2021 13:00,shaving cream,2,personal care
+3054,3/31/2021 13:00,beans,6,canned food
+3055,3/31/2021 13:00,tea,1,beverages
+3056,3/31/2021 13:00,dish soap,3,detergents
+3057,3/31/2021 13:00,cupcakes,3,bakery
+3058,3/31/2021 13:00,buns,9,bakery
+3059,3/31/2021 13:00,bananas,15,fruits
+3060,3/31/2021 13:00,soda,16,beverages
+3061,3/31/2021 13:00,beans,6,canned food
+3062,3/31/2021 14:00,soda,9,beverages
+3063,3/31/2021 14:00,beans,6,canned food
+3064,3/31/2021 14:00,shaving cream,13,personal care
+3065,3/31/2021 14:00,apples,19,fruits
+3066,3/31/2021 14:00,cookies,3,bakery
+3067,3/31/2021 15:00,hand soap,23,personal care
+3068,3/31/2021 15:00,buns,19,bakery
+3069,3/31/2021 16:00,cookies,4,bakery
+3070,3/31/2021 16:00,hand soap,9,personal care
+3071,3/31/2021 16:00,cupcakes,12,bakery
+3072,3/31/2021 16:00,paper towels,2,toileteries
+3073,3/31/2021 16:00,dish soap,5,detergents
+3074,3/31/2021 16:00,hand soap,30,personal care
+3075,3/31/2021 16:00,tea,4,beverages
+3076,3/31/2021 17:00,all purpose,17,detergents
+3077,3/31/2021 17:00,shaving cream,21,personal care
+3078,3/31/2021 17:00,ketchup,29,canned food
+3079,3/31/2021 17:00,beans,4,canned food
+3080,3/31/2021 17:00,cookies,1,bakery
+3081,3/31/2021 17:00,shampoo,12,personal care
+3082,3/31/2021 17:00,pork,7,meat
+3083,3/31/2021 17:00,chicken,9,meat
+3084,3/31/2021 17:00,buns,30,bakery
+3085,3/31/2021 17:00,pork,28,meat
+3086,3/31/2021 17:00,apples,1,fruits
+3087,3/31/2021 17:00,oranges,6,fruits
+3088,3/31/2021 17:00,tea,3,beverages
+3089,3/31/2021 18:00,hand soap,25,personal care
+3090,3/31/2021 18:00,dish soap,28,detergents
+3091,3/31/2021 18:00,hand soap,16,personal care
+3092,3/31/2021 18:00,paper towels,13,toileteries
+3093,3/31/2021 18:00,apples,12,fruits
+3094,3/31/2021 18:00,all purpose,10,detergents
+3095,3/31/2021 18:00,toilet paper,4,toileteries
+3096,3/31/2021 18:00,coffee,26,beverages
+3097,3/31/2021 18:00,chicken,30,meat
+3098,3/31/2021 18:00,paper towels,18,toileteries
+3099,3/31/2021 18:00,shaving cream,17,personal care
+3100,3/31/2021 19:00,tea,2,beverages
+3101,3/31/2021 19:00,all purpose,17,detergents
+3102,3/31/2021 19:00,loaves,9,bakery
+3103,3/31/2021 19:00,hand soap,28,personal care
+3104,3/31/2021 19:00,chicken,6,meat
+3105,3/31/2021 19:00,buns,1,bakery
+3106,3/31/2021 19:00,apples,16,fruits
+3107,3/31/2021 19:00,bananas,26,fruits
+3108,3/31/2021 20:00,oranges,30,fruits
+3109,3/31/2021 20:00,oranges,15,fruits
+3110,3/31/2021 20:00,bananas,22,fruits
+3111,3/31/2021 21:00,tea,5,beverages
+3112,3/31/2021 21:00,dish soap,1,detergents
+3113,3/31/2021 22:00,loaves,8,bakery
+3114,3/31/2021 23:00,dish soap,18,detergents
+3115,3/31/2021 23:00,chicken,29,meat
