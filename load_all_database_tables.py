@@ -65,3 +65,6 @@ if __name__=='__main__':
     load_products_table()
     load_prices_table()
     load_transactions_table()
+
+
+#new
